@@ -1,17 +1,17 @@
 {
   "current": {
     "abstentions": 27,
-    "completed_results": 0,
+    "completed_results": 2,
     "date": "2026-10-13",
     "evaluation_complete": false,
     "first_off_utc": "2026-10-13T12:24:00+00:00",
     "generated_at_utc": "2026-10-12T23:36:33.698439+00:00",
-    "missing_winner_sp": 0,
-    "net_units": null,
+    "missing_winner_sp": 1,
+    "net_units": -1.0,
     "official_selections": 3,
     "prospective_freeze": true,
     "races_reviewed": 30,
-    "roi": null,
+    "roi": -1.0,
     "selections": [
       {
         "course": "Hereford",
@@ -44,30 +44,30 @@
         "shadow_selection": "Trigger The Light"
       }
     ],
-    "settled_selections": 0,
+    "settled_selections": 2,
     "status": "FROZEN_PRE_RACE",
-    "units_staked_with_known_return": 0,
-    "wins": 0
+    "units_staked_with_known_return": 1,
+    "wins": 1
   },
-  "generated_at_utc": "2026-10-13T11:43:02.827233+00:00",
+  "generated_at_utc": "2026-10-13T14:28:20.385394+00:00",
   "history": [
     {
       "abstentions": 27,
-      "completed_results": 0,
+      "completed_results": 2,
       "date": "2026-10-13",
       "evaluation_complete": false,
       "first_off_utc": "2026-10-13T12:24:00+00:00",
       "generated_at_utc": "2026-10-12T23:36:33.698439+00:00",
-      "missing_winner_sp": 0,
-      "net_units": null,
+      "missing_winner_sp": 1,
+      "net_units": -1.0,
       "official_selections": 3,
       "prospective_freeze": true,
       "races_reviewed": 30,
-      "roi": null,
-      "settled_selections": 0,
+      "roi": -1.0,
+      "settled_selections": 2,
       "status": "FROZEN_PRE_RACE",
-      "units_staked_with_known_return": 0,
-      "wins": 0
+      "units_staked_with_known_return": 1,
+      "wins": 1
     },
     {
       "abstentions": 32,
@@ -602,16 +602,16 @@
     {
       "days_recorded": 13,
       "late_or_invalid_days": 0,
-      "missing_winner_sp": 11,
-      "net_units": -11.0,
+      "missing_winner_sp": 12,
+      "net_units": -12.0,
       "official_selections": 67,
       "period": "2026-10",
       "prospectively_frozen_days": 13,
       "roi": -1.0,
-      "settled_selections": 22,
+      "settled_selections": 24,
       "strike_rate": 0.5,
-      "units_staked_with_known_return": 11,
-      "wins": 11
+      "units_staked_with_known_return": 12,
+      "wins": 12
     },
     {
       "days_recorded": 17,
@@ -634,16 +634,16 @@
     {
       "days_recorded": 2,
       "late_or_invalid_days": 0,
-      "missing_winner_sp": 5,
-      "net_units": -2.0,
+      "missing_winner_sp": 6,
+      "net_units": -3.0,
       "official_selections": 10,
       "period": "2026-W42",
       "prospectively_frozen_days": 2,
       "roi": -1.0,
-      "settled_selections": 7,
-      "strike_rate": 0.714286,
-      "units_staked_with_known_return": 2,
-      "wins": 5
+      "settled_selections": 9,
+      "strike_rate": 0.666667,
+      "units_staked_with_known_return": 3,
+      "wins": 6
     },
     {
       "days_recorded": 7,

@@ -1,17 +1,17 @@
 {
   "current": {
     "abstentions": 38,
-    "completed_results": 0,
+    "completed_results": 7,
     "date": "2026-10-17",
-    "evaluation_complete": false,
+    "evaluation_complete": true,
     "first_off_utc": "2026-10-17T11:55:00+00:00",
     "generated_at_utc": "2026-10-16T23:02:38.855736+00:00",
-    "missing_winner_sp": 0,
-    "net_units": null,
+    "missing_winner_sp": 4,
+    "net_units": -3.0,
     "official_selections": 7,
     "prospective_freeze": true,
     "races_reviewed": 45,
-    "roi": null,
+    "roi": -1.0,
     "selections": [
       {
         "course": "Market Rasen",
@@ -84,30 +84,30 @@
         "shadow_selection": "Fully Stocked"
       }
     ],
-    "settled_selections": 0,
+    "settled_selections": 7,
     "status": "FROZEN_PRE_RACE",
-    "units_staked_with_known_return": 0,
-    "wins": 0
+    "units_staked_with_known_return": 3,
+    "wins": 4
   },
-  "generated_at_utc": "2026-10-17T17:51:25.267727+00:00",
+  "generated_at_utc": "2026-10-17T17:51:57.103852+00:00",
   "history": [
     {
       "abstentions": 38,
-      "completed_results": 0,
+      "completed_results": 7,
       "date": "2026-10-17",
-      "evaluation_complete": false,
+      "evaluation_complete": true,
       "first_off_utc": "2026-10-17T11:55:00+00:00",
       "generated_at_utc": "2026-10-16T23:02:38.855736+00:00",
-      "missing_winner_sp": 0,
-      "net_units": null,
+      "missing_winner_sp": 4,
+      "net_units": -3.0,
       "official_selections": 7,
       "prospective_freeze": true,
       "races_reviewed": 45,
-      "roi": null,
-      "settled_selections": 0,
+      "roi": -1.0,
+      "settled_selections": 7,
       "status": "FROZEN_PRE_RACE",
-      "units_staked_with_known_return": 0,
-      "wins": 0
+      "units_staked_with_known_return": 3,
+      "wins": 4
     },
     {
       "abstentions": 26,
@@ -714,16 +714,16 @@
     {
       "days_recorded": 17,
       "late_or_invalid_days": 0,
-      "missing_winner_sp": 18,
-      "net_units": -25.0,
+      "missing_winner_sp": 22,
+      "net_units": -28.0,
       "official_selections": 92,
       "period": "2026-10",
       "prospectively_frozen_days": 17,
       "roi": -1.0,
-      "settled_selections": 43,
-      "strike_rate": 0.418605,
-      "units_staked_with_known_return": 25,
-      "wins": 18
+      "settled_selections": 50,
+      "strike_rate": 0.44,
+      "units_staked_with_known_return": 28,
+      "wins": 22
     },
     {
       "days_recorded": 17,
@@ -746,16 +746,16 @@
     {
       "days_recorded": 6,
       "late_or_invalid_days": 0,
-      "missing_winner_sp": 12,
-      "net_units": -16.0,
+      "missing_winner_sp": 16,
+      "net_units": -19.0,
       "official_selections": 35,
       "period": "2026-W42",
       "prospectively_frozen_days": 6,
       "roi": -1.0,
-      "settled_selections": 28,
-      "strike_rate": 0.428571,
-      "units_staked_with_known_return": 16,
-      "wins": 12
+      "settled_selections": 35,
+      "strike_rate": 0.457143,
+      "units_staked_with_known_return": 19,
+      "wins": 16
     },
     {
       "days_recorded": 7,

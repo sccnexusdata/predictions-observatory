@@ -21,7 +21,7 @@
       "multiclass_brier_score"
     ]
   },
-  "generated_at_utc": "2026-10-17T19:25:06.079628+00:00",
+  "generated_at_utc": "2026-10-17T21:46:34.469326+00:00",
   "legs": [
     {
       "baseline": {
@@ -335,9 +335,9 @@
   "report_type": "ITV7_POST_RACE_EVALUATION",
   "results_source": {
     "endpoint": "/v1/results/today/free",
-    "payload_sha256": "abab140c19b2a9052631c49fa82c62455aad28e7c7bbb9e32988c2c3f1d0a7d0",
+    "payload_sha256": "504781037017ecefbc1f22f27d5306f2013cbe34bf241aec6741daa910ce9abe",
     "provider": "The Racing API",
-    "retrieved_at_utc": "2026-10-17T19:25:03.512486+00:00"
+    "retrieved_at_utc": "2026-10-17T21:46:31.533264+00:00"
   },
   "schema_version": "1.1"
 }

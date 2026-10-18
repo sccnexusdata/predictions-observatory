@@ -1,17 +1,17 @@
 {
   "current": {
     "abstentions": 6,
-    "completed_results": 0,
+    "completed_results": 1,
     "date": "2026-10-18",
-    "evaluation_complete": false,
+    "evaluation_complete": true,
     "first_off_utc": "2026-10-18T12:50:00+00:00",
     "generated_at_utc": "2026-10-17T23:27:13.319839+00:00",
     "missing_winner_sp": 0,
-    "net_units": null,
+    "net_units": -1.0,
     "official_selections": 1,
     "prospective_freeze": true,
     "races_reviewed": 7,
-    "roi": null,
+    "roi": -1.0,
     "selections": [
       {
         "course": "Sedgefield",
@@ -24,29 +24,29 @@
         "shadow_selection": "Bateleur"
       }
     ],
-    "settled_selections": 0,
+    "settled_selections": 1,
     "status": "FROZEN_PRE_RACE",
-    "units_staked_with_known_return": 0,
+    "units_staked_with_known_return": 1,
     "wins": 0
   },
-  "generated_at_utc": "2026-10-18T18:03:03.431077+00:00",
+  "generated_at_utc": "2026-10-18T18:03:33.106506+00:00",
   "history": [
     {
       "abstentions": 6,
-      "completed_results": 0,
+      "completed_results": 1,
       "date": "2026-10-18",
-      "evaluation_complete": false,
+      "evaluation_complete": true,
       "first_off_utc": "2026-10-18T12:50:00+00:00",
       "generated_at_utc": "2026-10-17T23:27:13.319839+00:00",
       "missing_winner_sp": 0,
-      "net_units": null,
+      "net_units": -1.0,
       "official_selections": 1,
       "prospective_freeze": true,
       "races_reviewed": 7,
-      "roi": null,
-      "settled_selections": 0,
+      "roi": -1.0,
+      "settled_selections": 1,
       "status": "FROZEN_PRE_RACE",
-      "units_staked_with_known_return": 0,
+      "units_staked_with_known_return": 1,
       "wins": 0
     },
     {
@@ -673,14 +673,14 @@
       "days_recorded": 18,
       "late_or_invalid_days": 0,
       "missing_winner_sp": 22,
-      "net_units": -28.0,
+      "net_units": -29.0,
       "official_selections": 93,
       "period": "2026-10",
       "prospectively_frozen_days": 18,
       "roi": -1.0,
-      "settled_selections": 50,
-      "strike_rate": 0.44,
-      "units_staked_with_known_return": 28,
+      "settled_selections": 51,
+      "strike_rate": 0.431373,
+      "units_staked_with_known_return": 29,
       "wins": 22
     },
     {
@@ -705,14 +705,14 @@
       "days_recorded": 7,
       "late_or_invalid_days": 0,
       "missing_winner_sp": 16,
-      "net_units": -19.0,
+      "net_units": -20.0,
       "official_selections": 36,
       "period": "2026-W42",
       "prospectively_frozen_days": 7,
       "roi": -1.0,
-      "settled_selections": 35,
-      "strike_rate": 0.457143,
-      "units_staked_with_known_return": 19,
+      "settled_selections": 36,
+      "strike_rate": 0.444444,
+      "units_staked_with_known_return": 20,
       "wins": 16
     },
     {

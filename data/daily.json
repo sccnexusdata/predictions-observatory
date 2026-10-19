@@ -1,17 +1,17 @@
 {
   "current": {
     "abstentions": 32,
-    "completed_results": 0,
+    "completed_results": 7,
     "date": "2026-10-19",
-    "evaluation_complete": false,
+    "evaluation_complete": true,
     "first_off_utc": "2026-10-19T12:47:00+00:00",
     "generated_at_utc": "2026-10-18T23:41:14.597445+00:00",
-    "missing_winner_sp": 0,
-    "net_units": null,
+    "missing_winner_sp": 1,
+    "net_units": -6.0,
     "official_selections": 7,
     "prospective_freeze": true,
     "races_reviewed": 39,
-    "roi": null,
+    "roi": -1.0,
     "selections": [
       {
         "course": "Plumpton",
@@ -84,30 +84,30 @@
         "shadow_selection": "Meydaan"
       }
     ],
-    "settled_selections": 0,
+    "settled_selections": 7,
     "status": "FROZEN_PRE_RACE",
-    "units_staked_with_known_return": 0,
-    "wins": 0
+    "units_staked_with_known_return": 6,
+    "wins": 1
   },
-  "generated_at_utc": "2026-10-19T20:33:45.617536+00:00",
+  "generated_at_utc": "2026-10-19T20:34:13.420401+00:00",
   "history": [
     {
       "abstentions": 32,
-      "completed_results": 0,
+      "completed_results": 7,
       "date": "2026-10-19",
-      "evaluation_complete": false,
+      "evaluation_complete": true,
       "first_off_utc": "2026-10-19T12:47:00+00:00",
       "generated_at_utc": "2026-10-18T23:41:14.597445+00:00",
-      "missing_winner_sp": 0,
-      "net_units": null,
+      "missing_winner_sp": 1,
+      "net_units": -6.0,
       "official_selections": 7,
       "prospective_freeze": true,
       "races_reviewed": 39,
-      "roi": null,
-      "settled_selections": 0,
+      "roi": -1.0,
+      "settled_selections": 7,
       "status": "FROZEN_PRE_RACE",
-      "units_staked_with_known_return": 0,
-      "wins": 0
+      "units_staked_with_known_return": 6,
+      "wins": 1
     },
     {
       "abstentions": 6,
@@ -750,16 +750,16 @@
     {
       "days_recorded": 19,
       "late_or_invalid_days": 0,
-      "missing_winner_sp": 22,
-      "net_units": -29.0,
+      "missing_winner_sp": 23,
+      "net_units": -35.0,
       "official_selections": 100,
       "period": "2026-10",
       "prospectively_frozen_days": 19,
       "roi": -1.0,
-      "settled_selections": 51,
-      "strike_rate": 0.431373,
-      "units_staked_with_known_return": 29,
-      "wins": 22
+      "settled_selections": 58,
+      "strike_rate": 0.396552,
+      "units_staked_with_known_return": 35,
+      "wins": 23
     },
     {
       "days_recorded": 17,
@@ -782,16 +782,16 @@
     {
       "days_recorded": 1,
       "late_or_invalid_days": 0,
-      "missing_winner_sp": 0,
-      "net_units": null,
+      "missing_winner_sp": 1,
+      "net_units": -6.0,
       "official_selections": 7,
       "period": "2026-W43",
       "prospectively_frozen_days": 1,
-      "roi": null,
-      "settled_selections": 0,
-      "strike_rate": null,
-      "units_staked_with_known_return": 0,
-      "wins": 0
+      "roi": -1.0,
+      "settled_selections": 7,
+      "strike_rate": 0.142857,
+      "units_staked_with_known_return": 6,
+      "wins": 1
     },
     {
       "days_recorded": 7,

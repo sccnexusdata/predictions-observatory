@@ -1,37 +1,87 @@
 {
   "current": {
-    "abstentions": 28,
+    "abstentions": 32,
     "completed_results": 0,
-    "date": "2026-10-23",
+    "date": "2026-10-24",
     "evaluation_complete": false,
-    "first_off_utc": "2026-10-23T12:15:00+00:00",
-    "generated_at_utc": "2026-10-22T23:38:45.360437+00:00",
+    "first_off_utc": "2026-10-24T11:55:00+00:00",
+    "generated_at_utc": "2026-10-23T23:33:27.455045+00:00",
     "missing_winner_sp": 0,
     "net_units": null,
-    "official_selections": 2,
+    "official_selections": 7,
     "prospective_freeze": true,
-    "races_reviewed": 30,
+    "races_reviewed": 39,
     "roi": null,
     "selections": [
       {
         "course": "Cheltenham",
         "leg": 1,
-        "model_probability": 0.2773867284931603,
-        "off_time": "13:50",
-        "race_name": "Catesby Estates 'chasing Excellence' Novices' Steeple Chase (gbb Race)",
-        "selection": "Bowensonfire",
-        "shadow_margin_pct": 54.1,
-        "shadow_selection": "Bowensonfire"
+        "model_probability": 0.23267755703206996,
+        "off_time": "14:55",
+        "race_name": "William Hill Best Odds Guaranteed Handicap Steeple Chase (gbb Race)",
+        "selection": "Mt Fugi Park",
+        "shadow_margin_pct": 62.88,
+        "shadow_selection": "Mt Fugi Park"
       },
       {
         "course": "Cheltenham",
         "leg": 2,
-        "model_probability": 0.18608206943479022,
-        "off_time": "15:35",
-        "race_name": "Squareintheair.com Handicap Steeple Chase (gbb Race)",
-        "selection": "JPR One",
-        "shadow_margin_pct": 57.48,
-        "shadow_selection": "JPR One"
+        "model_probability": 0.2686319187823271,
+        "off_time": "15:30",
+        "race_name": "Masterson Holdings Hurdle Race (gbb Race)",
+        "selection": "Lord Byron",
+        "shadow_margin_pct": 77.33,
+        "shadow_selection": "Lord Byron"
+      },
+      {
+        "course": "Doncaster",
+        "leg": 3,
+        "model_probability": 0.4113928849420975,
+        "off_time": "14:40",
+        "race_name": "Spooky Spectacular Fireworks At Doncaster Racecourse Nursery Handicap Stakes",
+        "selection": "National Honour",
+        "shadow_margin_pct": 64.85,
+        "shadow_selection": "National Honour"
+      },
+      {
+        "course": "Kelso",
+        "leg": 4,
+        "model_probability": 0.2424976665669695,
+        "off_time": "13:37",
+        "race_name": "Stay For The After Party 'national Hunt' Maiden Hurdle Race (gbb Race)",
+        "selection": "Cape Warrior",
+        "shadow_margin_pct": 5.61,
+        "shadow_selection": "Cape Warrior"
+      },
+      {
+        "course": "Kelso",
+        "leg": 5,
+        "model_probability": 0.30129449226332783,
+        "off_time": "14:10",
+        "race_name": "Clifford, Martin & Sarah Firth Memorial Novices' Handicap Steeple Chase (Go North Forgive 'N Forget Series Qualifier) (GBB Race)",
+        "selection": "Realisation",
+        "shadow_margin_pct": 9.28,
+        "shadow_selection": "Realisation"
+      },
+      {
+        "course": "Kelso",
+        "leg": 6,
+        "model_probability": 0.30892204503210385,
+        "off_time": "16:25",
+        "race_name": "luckytiger.co.uk Best Odds Guaranteed Nuts Well Handicap Steeple Chase (gbb Race)",
+        "selection": "Newtown Rambler",
+        "shadow_margin_pct": 24.0,
+        "shadow_selection": "Newtown Rambler"
+      },
+      {
+        "course": "Southwell (AW)",
+        "leg": 7,
+        "model_probability": 0.32798173825921945,
+        "off_time": "16:24",
+        "race_name": "Awc Season 14 Has Begun Nursery Handicap Stakes",
+        "selection": "Blake's Monarch",
+        "shadow_margin_pct": 31.93,
+        "shadow_selection": "Blake's Monarch"
       }
     ],
     "settled_selections": 0,
@@ -39,8 +89,26 @@
     "units_staked_with_known_return": 0,
     "wins": 0
   },
-  "generated_at_utc": "2026-10-23T22:40:01.647502+00:00",
+  "generated_at_utc": "2026-10-23T23:34:12.459771+00:00",
   "history": [
+    {
+      "abstentions": 32,
+      "completed_results": 0,
+      "date": "2026-10-24",
+      "evaluation_complete": false,
+      "first_off_utc": "2026-10-24T11:55:00+00:00",
+      "generated_at_utc": "2026-10-23T23:33:27.455045+00:00",
+      "missing_winner_sp": 0,
+      "net_units": null,
+      "official_selections": 7,
+      "prospective_freeze": true,
+      "races_reviewed": 39,
+      "roi": null,
+      "settled_selections": 0,
+      "status": "FROZEN_PRE_RACE",
+      "units_staked_with_known_return": 0,
+      "wins": 0
+    },
     {
       "abstentions": 28,
       "completed_results": 0,
@@ -770,13 +838,13 @@
   },
   "monthly": [
     {
-      "days_recorded": 23,
+      "days_recorded": 24,
       "late_or_invalid_days": 0,
       "missing_winner_sp": 25,
       "net_units": -41.0,
-      "official_selections": 115,
+      "official_selections": 122,
       "period": "2026-10",
-      "prospectively_frozen_days": 23,
+      "prospectively_frozen_days": 24,
       "roi": -1.0,
       "settled_selections": 66,
       "strike_rate": 0.378788,
@@ -802,13 +870,13 @@
   "scope": "THE_RACING_API_DAILY_FEED",
   "weekly": [
     {
-      "days_recorded": 5,
+      "days_recorded": 6,
       "late_or_invalid_days": 0,
       "missing_winner_sp": 3,
       "net_units": -12.0,
-      "official_selections": 22,
+      "official_selections": 29,
       "period": "2026-W43",
-      "prospectively_frozen_days": 5,
+      "prospectively_frozen_days": 6,
       "roi": -1.0,
       "settled_selections": 15,
       "strike_rate": 0.2,

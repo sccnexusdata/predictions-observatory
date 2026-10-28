@@ -10,6 +10,20 @@ function state(row) {
 }
 
 function render(data) {
+  const kpi = data.performance || {};
+  const stats = {
+    official: kpi.official_selections ?? "—",
+    settled: kpi.settled_selections ?? "—",
+    wins: kpi.wins ?? "—",
+    strike: pct(kpi.win_strike_rate_on_evaluated),
+    coverage: pct(kpi.result_reconciliation_rate),
+    odds: kpi.missing_winner_sp ?? "—",
+    roi: pct(kpi.betting_roi),
+  };
+  for (const [key, value] of Object.entries(stats)) {
+    const element = one('[data-daily-kpi="' + key + '"]');
+    if (element) element.textContent = value;
+  }
   const current = data.current;
   all("[data-daily-date]").forEach((node) => { node.textContent = current?.date || "—"; });
   all("[data-daily-state]").forEach((node) => { node.textContent = state(current); });

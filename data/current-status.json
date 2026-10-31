@@ -1,7 +1,14 @@
 {
-  "date": "2026-10-30",
-  "generated_at_utc": "2026-10-30T23:17:02.245426+00:00",
-  "message": "No frozen ITV7 manifest exists for this date; no evaluation attempted.",
+  "date": "2026-10-31",
+  "first_off_utc": "2026-10-31T14:00:00+00:00",
+  "generated_at_utc": "2026-10-31T06:56:02.647985+00:00",
+  "matched_legs": 7,
+  "message": "Seven-leg ITV7 card captured and model outputs frozen.",
+  "models": [
+    "transparent-baseline-v1",
+    "quant-shadow-v1"
+  ],
+  "prospective_freeze": true,
   "schema_version": "1.0",
-  "state": "NO_MANIFEST"
+  "state": "PREDICTION_FROZEN"
 }

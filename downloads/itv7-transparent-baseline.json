@@ -1,8 +1,8 @@
 {
   "competition": "ITV7",
-  "date": "2026-10-17",
-  "first_off_utc": "2026-10-17T12:30:00+00:00",
-  "generated_at_utc": "2026-10-17T05:32:25.994755+00:00",
+  "date": "2026-10-31",
+  "first_off_utc": "2026-10-31T14:00:00+00:00",
+  "generated_at_utc": "2026-10-31T06:56:01.992050+00:00",
   "integrity": {
     "prospective_freeze": true,
     "rule": "Do not rewrite after the first ITV7 leg begins; later analysis belongs in post-race evaluation."
@@ -10,80 +10,80 @@
   "legs": [
     {
       "course": "Ascot",
-      "horse_id": "hrs_64590792",
+      "horse_id": "hrs_37933658",
       "leg": 1,
       "market_reference_odds": null,
-      "model_probability": 0.14796305376162722,
-      "off": "13:30",
-      "race": "Qatar Racing British Champions Long Distance Cup (Group 1)",
-      "rationale": "Transparent baseline rank 1; provisional evidence share 14.8%. Among the strongest official ratings; won latest recorded run; younger profile with scope to progress.",
-      "selection": "Highwayman"
+      "model_probability": 0.12683940536776994,
+      "off": "14:00",
+      "race": "Sodexo Live! Handicap Steeple Chase (gbb Race)",
+      "rationale": "Transparent baseline rank 1; provisional evidence share 12.68%. won latest recorded run; race-fit recency window.",
+      "selection": "Gore Point"
     },
     {
-      "course": "Ascot",
-      "horse_id": "hrs_45193449",
+      "course": "Wetherby",
+      "horse_id": "hrs_29816451",
       "leg": 2,
       "market_reference_odds": null,
-      "model_probability": 0.11827003630282032,
-      "off": "14:05",
-      "race": "Qatar Racing British Champions Sprint Stakes (Group 1)",
-      "rationale": "Transparent baseline rank 1; provisional evidence share 11.83%. Among the strongest official ratings; won latest recorded run; younger profile with scope to progress.",
-      "selection": "Almeraq"
+      "model_probability": 0.30598430389996345,
+      "off": "14:18",
+      "race": "Bet365 Hurdle Race (grade 2) (registered As The West Yorkshire Hurdle) (gbb Race)",
+      "rationale": "Transparent baseline rank 1; provisional evidence share 30.6%. race-fit recency window.",
+      "selection": "Take No Chances"
     },
     {
       "course": "Ascot",
-      "horse_id": "hrs_38549154",
+      "horse_id": "hrs_22782830",
       "leg": 3,
       "market_reference_odds": null,
-      "model_probability": 0.12116402472684526,
-      "off": "14:40",
-      "race": "Qatar Racing British Champions Fillies & Mares Stakes (Group 1)",
-      "rationale": "Transparent baseline rank 1; provisional evidence share 12.12%. Among the strongest official ratings.",
-      "selection": "Kalpana"
+      "model_probability": 0.15246785949848798,
+      "off": "14:33",
+      "race": "Sodexo Live! Regal Encore Handicap Steeple Chase (Premier Handicap) (GBB Race)",
+      "rationale": "Transparent baseline rank 1; provisional evidence share 15.25%. Among the strongest official ratings; won latest recorded run; fitness after a long break is a question.",
+      "selection": "Viroflay"
     },
     {
-      "course": "Catterick",
-      "horse_id": "hrs_31451126",
+      "course": "Wetherby",
+      "horse_id": "hrs_13202938",
       "leg": 4,
       "market_reference_odds": null,
-      "model_probability": 0.1445488557932698,
-      "off": "14:45",
-      "race": "William Hill Best Odds Guaranteed Veterans' Handicap Stakes",
-      "rationale": "Transparent baseline rank 1; provisional evidence share 14.45%. Among the strongest official ratings; race-fit recency window.",
-      "selection": "Belsito"
+      "model_probability": 0.2155271796902023,
+      "off": "14:55",
+      "race": "Bet365 Charlie Hall Steeple Chase (Grade 2) (GBB Race)",
+      "rationale": "Transparent baseline rank 1; provisional evidence share 21.55%. Among the strongest official ratings; recent placed form; fitness after a long break is a question.",
+      "selection": "Pic D'orhy"
     },
     {
-      "course": "Ascot",
-      "horse_id": "hrs_51766610",
+      "course": "Down Royal",
+      "horse_id": "hrs_29226554",
       "leg": 5,
       "market_reference_odds": null,
-      "model_probability": 0.1445669607772366,
-      "off": "15:20",
-      "race": "Queen Elizabeth II Stakes (Sponsored By Qatar Racing) (Group 1)",
-      "rationale": "Transparent baseline rank 1; provisional evidence share 14.46%. Among the strongest official ratings; recent placed form; younger profile with scope to progress.",
-      "selection": "Gstaad"
+      "model_probability": 0.18297026058379706,
+      "off": "15:15",
+      "race": "BetVictor, Remembering Envoi Allen Champion Steeplechase (Grade 1)",
+      "rationale": "Transparent baseline rank 1; provisional evidence share 18.3%. Among the strongest official ratings; won latest recorded run; fitness after a long break is a question.",
+      "selection": "Affordale Fury"
     },
     {
-      "course": "Ascot",
-      "horse_id": "hrs_42389487",
+      "course": "Wetherby",
+      "horse_id": "hrs_38017595",
       "leg": 6,
       "market_reference_odds": null,
-      "model_probability": 0.23183780943621804,
-      "off": "16:00",
-      "race": "Qatar Racing Champion Stakes (Group 1)",
-      "rationale": "Transparent baseline rank 1; provisional evidence share 23.18%. Among the strongest official ratings.",
-      "selection": "Ombudsman"
+      "model_probability": 0.3541631957827985,
+      "off": "15:30",
+      "race": "Each Way Extra At Bet365 Handicap Hurdle Race",
+      "rationale": "Transparent baseline rank 1; provisional evidence share 35.42%. Among the strongest official ratings; race-fit recency window.",
+      "selection": "Filibustering"
     },
     {
       "course": "Ascot",
-      "horse_id": "hrs_33875569",
+      "horse_id": "hrs_34166643",
       "leg": 7,
       "market_reference_odds": null,
-      "model_probability": 0.08917305775126125,
-      "off": "16:35",
-      "race": "Balmoral Handicap Stakes (sponsored By Qatar Racing)",
-      "rationale": "Transparent baseline rank 1; provisional evidence share 8.92%. Among the strongest official ratings; recent placed form; race-fit recency window.",
-      "selection": "Persica"
+      "model_probability": 0.1022975651287478,
+      "off": "15:43",
+      "race": "Lavazza Handicap Hurdle Race (gbb Race)",
+      "rationale": "Transparent baseline rank 1; provisional evidence share 10.23%. Among the strongest official ratings; won latest recorded run.",
+      "selection": "Williethebuilder"
     }
   ],
   "method": {
@@ -92,15 +92,15 @@
     "note": "Deterministic structured-data baseline using official rating, recent form, weight, recency, age/progression and a bounded Chester draw prior. It is a research baseline, not a validated betting model."
   },
   "model_status": "PROVISIONAL_TRANSPARENT_HEURISTIC",
-  "prediction_id": "itv7-2026-10-17-transparent-baseline-v1",
+  "prediction_id": "itv7-2026-10-31-transparent-baseline-v1",
   "prospective_freeze": true,
   "schema_version": "1.0",
   "source_snapshot": {
     "endpoint": "/v1/racecards/free",
-    "itv7_manifest": "data/racing_api/2026-10-17/itv7/manifest.json",
-    "payload_sha256": "e6b0faf4f1c2cea57af9e3ea00eda75def4636d0154f20518087c562b0a70384",
+    "itv7_manifest": "data/racing_api/2026-10-31/itv7/manifest.json",
+    "payload_sha256": "6671472a4cd43a16696065c4dc954bbbffc9261ae6fe6f55d15a4313a7b92edd",
     "provider": "The Racing API",
-    "retrieved_at_utc": "2026-10-17T05:32:22.938411+00:00"
+    "retrieved_at_utc": "2026-10-31T06:55:58.723114+00:00"
   },
   "status": "FROZEN_PRE_RACE"
 }

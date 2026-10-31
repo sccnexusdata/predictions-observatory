@@ -95,11 +95,11 @@
     "method_note": "Deterministic structured-data baseline using official rating, recent form, weight, recency, age/progression and a bounded Chester draw prior. It is a research baseline, not a validated betting model.",
     "model_status": "PROVISIONAL_TRANSPARENT_HEURISTIC",
     "prospective_freeze": true,
-    "state": "PREDICTION_FROZEN"
+    "state": "EVALUATED"
   },
-  "generated_at_utc": "2026-10-31T13:39:35.902949+00:00",
+  "generated_at_utc": "2026-10-31T19:14:44.425624+00:00",
   "latest_card": {
-    "date": "2026-10-17",
+    "date": "2026-10-31",
     "races": [
       {
         "course": "Ascot",
@@ -107,32 +107,32 @@
         "models": {
           "frozen_scc": null,
           "quant_shadow": {
-            "finish_position": 3,
+            "finish_position": 8,
             "label": "Quant Shadow",
             "non_finish": false,
-            "result_code": "3",
-            "selection": "Highwayman",
-            "top3_hit": true,
+            "result_code": "8",
+            "selection": "Teddy Blue",
+            "top3_hit": false,
             "winner_hit": false,
-            "winner_probability": 0.03275
+            "winner_probability": 0.15915
           },
           "transparent_baseline": {
-            "finish_position": 3,
+            "finish_position": 9,
             "label": "Transparent baseline",
             "non_finish": false,
-            "result_code": "3",
-            "selection": "Highwayman",
-            "top3_hit": true,
+            "result_code": "9",
+            "selection": "Gore Point",
+            "top3_hit": false,
             "winner_hit": false,
-            "winner_probability": 0.08708812903153648
+            "winner_probability": 0.09877537678676426
           }
         },
-        "off_time": "1:30",
-        "race_name": "Qatar Racing British Champions Long Distance Cup (Group 1)",
-        "winner": "Mount Atlas (GB)"
+        "off_time": "2:00",
+        "race_name": "Sodexo Live! Handicap Steeple Chase (gbb Race)",
+        "winner": "Vanderpoel (IRE)"
       },
       {
-        "course": "Ascot",
+        "course": "Wetherby",
         "leg": 2,
         "models": {
           "frozen_scc": null,
@@ -141,25 +141,25 @@
             "label": "Quant Shadow",
             "non_finish": false,
             "result_code": "1",
-            "selection": "Almeraq",
+            "selection": "Strong Leader",
             "top3_hit": true,
             "winner_hit": true,
-            "winner_probability": 0.62605
+            "winner_probability": 0.4125
           },
           "transparent_baseline": {
-            "finish_position": 1,
+            "finish_position": 3,
             "label": "Transparent baseline",
             "non_finish": false,
-            "result_code": "1",
-            "selection": "Almeraq",
+            "result_code": "3",
+            "selection": "Take No Chances",
             "top3_hit": true,
-            "winner_hit": true,
-            "winner_probability": 0.11827003630282033
+            "winner_hit": false,
+            "winner_probability": 0.26790699431186404
           }
         },
-        "off_time": "2:05",
-        "race_name": "Qatar Racing British Champions Sprint Stakes (Group 1)",
-        "winner": "Almeraq (GB)"
+        "off_time": "2:18",
+        "race_name": "Bet365 Hurdle Race (grade 2) (registered As The West Yorkshire Hurdle) (gbb Race)",
+        "winner": "Strong Leader (GB)"
       },
       {
         "course": "Ascot",
@@ -167,92 +167,92 @@
         "models": {
           "frozen_scc": null,
           "quant_shadow": {
-            "finish_position": 7,
+            "finish_position": 1,
             "label": "Quant Shadow",
             "non_finish": false,
-            "result_code": "7",
-            "selection": "Kalpana",
-            "top3_hit": false,
-            "winner_hit": false,
-            "winner_probability": 0.05395
+            "result_code": "1",
+            "selection": "Viroflay",
+            "top3_hit": true,
+            "winner_hit": true,
+            "winner_probability": 0.3556
           },
           "transparent_baseline": {
-            "finish_position": 7,
+            "finish_position": 1,
             "label": "Transparent baseline",
             "non_finish": false,
-            "result_code": "7",
-            "selection": "Kalpana",
-            "top3_hit": false,
-            "winner_hit": false,
-            "winner_probability": 0.0778201024102661
+            "result_code": "1",
+            "selection": "Viroflay",
+            "top3_hit": true,
+            "winner_hit": true,
+            "winner_probability": 0.15246785949848798
           }
         },
-        "off_time": "2:40",
-        "race_name": "Qatar Racing British Champions Fillies & Mares Stakes (Group 1)",
-        "winner": "Minnie Hauk (IRE)"
+        "off_time": "2:33",
+        "race_name": "Sodexo Live! Regal Encore Handicap Steeple Chase (Premier Handicap) (GBB Race)",
+        "winner": "Viroflay (FR)"
       },
       {
-        "course": "Catterick",
+        "course": "Wetherby",
         "leg": 4,
         "models": {
           "frozen_scc": null,
           "quant_shadow": {
-            "finish_position": 7,
+            "finish_position": 1,
             "label": "Quant Shadow",
             "non_finish": false,
-            "result_code": "7",
-            "selection": "Belsito",
-            "top3_hit": false,
-            "winner_hit": false,
-            "winner_probability": 0.1918
+            "result_code": "1",
+            "selection": "Pic D'orhy",
+            "top3_hit": true,
+            "winner_hit": true,
+            "winner_probability": 0.63725
           },
           "transparent_baseline": {
-            "finish_position": 7,
+            "finish_position": 1,
             "label": "Transparent baseline",
             "non_finish": false,
-            "result_code": "7",
-            "selection": "Belsito",
-            "top3_hit": false,
-            "winner_hit": false,
-            "winner_probability": 0.13023315110923991
+            "result_code": "1",
+            "selection": "Pic D'orhy",
+            "top3_hit": true,
+            "winner_hit": true,
+            "winner_probability": 0.2155271796902023
           }
         },
-        "off_time": "2:45",
-        "race_name": "William Hill Best Odds Guaranteed Veterans' Handicap Stakes",
-        "winner": "Woodstock (GB)"
+        "off_time": "2:55",
+        "race_name": "Bet365 Charlie Hall Steeple Chase (Grade 2) (GBB Race)",
+        "winner": "Pic D'Orhy (FR)"
       },
       {
-        "course": "Ascot",
+        "course": "Down Royal (IRE)",
         "leg": 5,
         "models": {
           "frozen_scc": null,
           "quant_shadow": {
-            "finish_position": 8,
+            "finish_position": null,
             "label": "Quant Shadow",
             "non_finish": false,
-            "result_code": "8",
-            "selection": "Gstaad",
+            "result_code": "UNMATCHED",
+            "selection": "Affordale Fury",
             "top3_hit": false,
             "winner_hit": false,
-            "winner_probability": 0.1857
+            "winner_probability": 0.0444
           },
           "transparent_baseline": {
-            "finish_position": 8,
+            "finish_position": null,
             "label": "Transparent baseline",
             "non_finish": false,
-            "result_code": "8",
-            "selection": "Gstaad",
+            "result_code": "UNMATCHED",
+            "selection": "Affordale Fury",
             "top3_hit": false,
             "winner_hit": false,
-            "winner_probability": 0.1279244703786138
+            "winner_probability": 0.11682140381761992
           }
         },
-        "off_time": "3:20",
-        "race_name": "Queen Elizabeth II Stakes (Sponsored By Qatar Racing) (Group 1)",
-        "winner": "Talk Of New York (GB)"
+        "off_time": "3:15",
+        "race_name": "BetVictor, Remembering Envoi Allen Champion Steeplechase (Grade 1)",
+        "winner": "Haiti Couleurs (FR)"
       },
       {
-        "course": "Ascot",
+        "course": "Wetherby",
         "leg": 6,
         "models": {
           "frozen_scc": null,
@@ -261,25 +261,25 @@
             "label": "Quant Shadow",
             "non_finish": false,
             "result_code": "1",
-            "selection": "Ombudsman",
+            "selection": "Filibustering",
             "top3_hit": true,
             "winner_hit": true,
-            "winner_probability": 0.5634
+            "winner_probability": 0.6053
           },
           "transparent_baseline": {
             "finish_position": 1,
             "label": "Transparent baseline",
             "non_finish": false,
             "result_code": "1",
-            "selection": "Ombudsman",
+            "selection": "Filibustering",
             "top3_hit": true,
             "winner_hit": true,
-            "winner_probability": 0.23183780943621804
+            "winner_probability": 0.3541631957827985
           }
         },
-        "off_time": "4:00",
-        "race_name": "Qatar Racing Champion Stakes (Group 1)",
-        "winner": "Ombudsman (IRE)"
+        "off_time": "3:30",
+        "race_name": "Each Way Extra At Bet365 Handicap Hurdle Race",
+        "winner": "Filibustering (GB)"
       },
       {
         "course": "Ascot",
@@ -287,42 +287,42 @@
         "models": {
           "frozen_scc": null,
           "quant_shadow": {
-            "finish_position": 14,
+            "finish_position": 6,
             "label": "Quant Shadow",
             "non_finish": false,
-            "result_code": "14",
-            "selection": "Persica",
+            "result_code": "6",
+            "selection": "Williethebuilder",
             "top3_hit": false,
             "winner_hit": false,
-            "winner_probability": 0.0057
+            "winner_probability": 0.0984
           },
           "transparent_baseline": {
-            "finish_position": 14,
+            "finish_position": 6,
             "label": "Transparent baseline",
             "non_finish": false,
-            "result_code": "14",
-            "selection": "Persica",
+            "result_code": "6",
+            "selection": "Williethebuilder",
             "top3_hit": false,
             "winner_hit": false,
-            "winner_probability": 0.04097708114859949
+            "winner_probability": 0.08014210241428531
           }
         },
-        "off_time": "4:35",
-        "race_name": "Balmoral Handicap Stakes (sponsored By Qatar Racing)",
-        "winner": "Fifth Column (IRE)"
+        "off_time": "3:43",
+        "race_name": "Lavazza Handicap Hurdle Race (gbb Race)",
+        "winner": "Trustintimes (GB)"
       }
     ],
     "source": {
       "endpoint": "/v1/results/today/free",
-      "payload_sha256": "504781037017ecefbc1f22f27d5306f2013cbe34bf241aec6741daa910ce9abe",
+      "payload_sha256": "95ea40545b10144ded26b24210b6a40912ab735dc8517dda491843affe82890b",
       "provider": "The Racing API",
-      "retrieved_at_utc": "2026-10-17T21:46:31.533264+00:00"
+      "retrieved_at_utc": "2026-10-31T19:14:24.525575+00:00"
     }
   },
   "ledger": {
-    "cards_evaluated": 5,
-    "cards_with_evaluation": 5,
-    "complete_cards": 4,
+    "cards_evaluated": 6,
+    "cards_with_evaluation": 6,
+    "complete_cards": 5,
     "diagnostic_checkpoints": [
       {
         "cards": 5,
@@ -346,9 +346,9 @@
       }
     ],
     "first_card": "2026-08-22",
-    "fully_reconciled_cards": 4,
-    "latest_card": "2026-10-17",
-    "race_legs_evaluated": 32,
+    "fully_reconciled_cards": 5,
+    "latest_card": "2026-10-31",
+    "race_legs_evaluated": 39,
     "retuning_threshold_cards": 50,
     "retuning_threshold_legs": 350
   },
@@ -367,27 +367,27 @@
     },
     "quant_shadow": {
       "label": "Quant Shadow",
-      "legs_scored": 31,
-      "mean_brier_score": 0.869721,
-      "mean_finish_position": 6.267,
-      "mean_log_loss": 2.387548,
+      "legs_scored": 37,
+      "mean_brier_score": 0.819125,
+      "mean_finish_position": 5.722,
+      "mean_log_loss": 2.190343,
       "non_finishes": 1,
-      "top3_finishes": 16,
-      "top3_rate": 0.5161290322580645,
-      "win_rate": 0.25806451612903225,
-      "wins": 8
+      "top3_finishes": 20,
+      "top3_rate": 0.5405405405405406,
+      "win_rate": 0.32432432432432434,
+      "wins": 12
     },
     "transparent_baseline": {
       "label": "Transparent baseline",
-      "legs_scored": 31,
-      "mean_brier_score": 0.868523,
-      "mean_finish_position": 5.9,
-      "mean_log_loss": 2.268552,
+      "legs_scored": 37,
+      "mean_brier_score": 0.852773,
+      "mean_finish_position": 5.5,
+      "mean_log_loss": 2.18742,
       "non_finishes": 1,
-      "top3_finishes": 16,
-      "top3_rate": 0.5161290322580645,
-      "win_rate": 0.25806451612903225,
-      "wins": 8
+      "top3_finishes": 20,
+      "top3_rate": 0.5405405405405406,
+      "win_rate": 0.2972972972972973,
+      "wins": 11
     }
   },
   "principles": [
@@ -401,11 +401,43 @@
     "discipline": "Prospective prediction research",
     "latest_frozen_prediction": "2026-10-31",
     "latest_racecard_snapshot": "2026-10-31",
-    "latest_results_snapshot": "2026-10-25",
+    "latest_results_snapshot": "2026-10-31",
     "name": "SCC PREDICTIONS",
     "status": "RESEARCH / FORWARD VALIDATION"
   },
   "recent_cards": [
+    {
+      "complete": true,
+      "completed_results": 7,
+      "date": "2026-10-31",
+      "itv7_legs": 7,
+      "models": {
+        "frozen_scc": {
+          "label": "SCC Core",
+          "legs_scored": 0,
+          "mean_brier_score": null,
+          "mean_log_loss": null,
+          "top3_finishes": 0,
+          "wins": 0
+        },
+        "quant_shadow": {
+          "label": "Quant Shadow",
+          "legs_scored": 6,
+          "mean_brier_score": 0.55771,
+          "mean_log_loss": 1.171452,
+          "top3_finishes": 4,
+          "wins": 4
+        },
+        "transparent_baseline": {
+          "label": "Transparent baseline",
+          "legs_scored": 6,
+          "mean_brier_score": 0.771398,
+          "mean_log_loss": 1.768241,
+          "top3_finishes": 4,
+          "wins": 3
+        }
+      }
+    },
     {
       "complete": true,
       "completed_results": 7,

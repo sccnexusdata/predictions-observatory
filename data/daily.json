@@ -1,7 +1,7 @@
 {
   "current": {
     "abstentions": 28,
-    "completed_results": 0,
+    "completed_results": 2,
     "date": "2026-11-02",
     "evaluation_complete": false,
     "first_off_utc": "2026-11-02T13:00:00+00:00",
@@ -35,16 +35,16 @@
         "shadow_selection": "Joyau Allen"
       }
     ],
-    "settled_selections": 0,
+    "settled_selections": 1,
     "status": "FROZEN_PRE_RACE",
-    "units_staked_with_known_return": 0,
+    "units_staked_with_known_return": 1,
     "wins": 0
   },
-  "generated_at_utc": "2026-11-02T12:20:52.938769+00:00",
+  "generated_at_utc": "2026-11-02T16:26:24.300496+00:00",
   "history": [
     {
       "abstentions": 28,
-      "completed_results": 0,
+      "completed_results": 2,
       "date": "2026-11-02",
       "evaluation_complete": false,
       "first_off_utc": "2026-11-02T13:00:00+00:00",
@@ -56,9 +56,9 @@
       "prospective_freeze": true,
       "races_reviewed": 30,
       "roi": null,
-      "settled_selections": 0,
+      "settled_selections": 1,
       "status": "FROZEN_PRE_RACE",
-      "units_staked_with_known_return": 0,
+      "units_staked_with_known_return": 1,
       "wins": 0
     },
     {
@@ -1010,9 +1010,9 @@
       "profitability_status": "INCOMPLETE_PRICE_OR_RESULT_COVERAGE",
       "prospectively_frozen_days": 2,
       "roi": null,
-      "settled_selections": 6,
-      "strike_rate": 0.333333,
-      "units_staked_with_known_return": 4,
+      "settled_selections": 7,
+      "strike_rate": 0.285714,
+      "units_staked_with_known_return": 5,
       "wins": 2
     },
     {
@@ -1051,10 +1051,10 @@
     "betting_roi_status": "NOT_CERTIFIED_INCOMPLETE_RESULTS_OR_PRICES",
     "missing_winner_sp": 33,
     "official_selections": 217,
-    "result_reconciliation_rate": 0.428571,
-    "settled_selections": 93,
-    "unreconciled_selections": 124,
-    "win_strike_rate_on_evaluated": 0.354839,
+    "result_reconciliation_rate": 0.43318,
+    "settled_selections": 94,
+    "unreconciled_selections": 123,
+    "win_strike_rate_on_evaluated": 0.351064,
     "wins": 33
   },
   "schema_version": "1.0",
@@ -1070,9 +1070,9 @@
       "profitability_status": "INCOMPLETE_PRICE_OR_RESULT_COVERAGE",
       "prospectively_frozen_days": 1,
       "roi": null,
-      "settled_selections": 0,
-      "strike_rate": null,
-      "units_staked_with_known_return": 0,
+      "settled_selections": 1,
+      "strike_rate": 0.0,
+      "units_staked_with_known_return": 1,
       "wins": 0
     },
     {

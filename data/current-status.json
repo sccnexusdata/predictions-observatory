@@ -1,7 +1,7 @@
 {
   "date": "2026-11-07",
-  "generated_at_utc": "2026-11-07T14:02:23.090355+00:00",
-  "message": "Racecards captured, but no seven-leg ITV7 fixture could be verified and reconciled. No prediction was generated.",
+  "generated_at_utc": "2026-11-07T19:23:01.406569+00:00",
+  "message": "No frozen ITV7 manifest exists for this date; no evaluation attempted.",
   "schema_version": "1.0",
-  "state": "NO_FIXTURE_SPEC"
+  "state": "NO_MANIFEST"
 }

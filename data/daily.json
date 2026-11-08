@@ -1,15 +1,15 @@
 {
   "current": {
     "abstentions": 32,
-    "completed_results": 0,
+    "completed_results": 7,
     "date": "2026-11-07",
-    "evaluation_complete": false,
+    "evaluation_complete": true,
     "first_off_utc": "2026-11-07T11:55:00+00:00",
     "generated_at_utc": "2026-11-07T00:23:45.951748+00:00",
-    "missing_winner_sp": 0,
+    "missing_winner_sp": 2,
     "net_units": null,
     "official_selections": 7,
-    "profitability_status": "INCOMPLETE_EVALUATION",
+    "profitability_status": "INCOMPLETE_WINNER_PRICES",
     "prospective_freeze": true,
     "races_reviewed": 39,
     "roi": null,
@@ -85,31 +85,31 @@
         "shadow_selection": "Senator"
       }
     ],
-    "settled_selections": 0,
+    "settled_selections": 7,
     "status": "FROZEN_PRE_RACE",
-    "units_staked_with_known_return": 0,
-    "wins": 0
+    "units_staked_with_known_return": 5,
+    "wins": 2
   },
-  "generated_at_utc": "2026-11-07T23:05:55.711425+00:00",
+  "generated_at_utc": "2026-11-08T00:00:20.782595+00:00",
   "history": [
     {
       "abstentions": 32,
-      "completed_results": 0,
+      "completed_results": 7,
       "date": "2026-11-07",
-      "evaluation_complete": false,
+      "evaluation_complete": true,
       "first_off_utc": "2026-11-07T11:55:00+00:00",
       "generated_at_utc": "2026-11-07T00:23:45.951748+00:00",
-      "missing_winner_sp": 0,
+      "missing_winner_sp": 2,
       "net_units": null,
       "official_selections": 7,
-      "profitability_status": "INCOMPLETE_EVALUATION",
+      "profitability_status": "INCOMPLETE_WINNER_PRICES",
       "prospective_freeze": true,
       "races_reviewed": 39,
       "roi": null,
-      "settled_selections": 0,
+      "settled_selections": 7,
       "status": "FROZEN_PRE_RACE",
-      "units_staked_with_known_return": 0,
-      "wins": 0
+      "units_staked_with_known_return": 5,
+      "wins": 2
     },
     {
       "abstentions": 22,
@@ -1148,17 +1148,17 @@
     {
       "days_recorded": 7,
       "late_or_invalid_days": 0,
-      "missing_winner_sp": 2,
+      "missing_winner_sp": 4,
       "net_units": null,
       "official_selections": 34,
       "period": "2026-11",
       "profitability_status": "INCOMPLETE_PRICE_OR_RESULT_COVERAGE",
       "prospectively_frozen_days": 7,
       "roi": null,
-      "settled_selections": 7,
+      "settled_selections": 14,
       "strike_rate": 0.285714,
-      "units_staked_with_known_return": 5,
-      "wins": 2
+      "units_staked_with_known_return": 10,
+      "wins": 4
     },
     {
       "days_recorded": 31,
@@ -1194,13 +1194,13 @@
   "performance": {
     "betting_roi": null,
     "betting_roi_status": "NOT_CERTIFIED_INCOMPLETE_RESULTS_OR_PRICES",
-    "missing_winner_sp": 33,
+    "missing_winner_sp": 35,
     "official_selections": 242,
-    "result_reconciliation_rate": 0.38843,
-    "settled_selections": 94,
-    "unreconciled_selections": 148,
-    "win_strike_rate_on_evaluated": 0.351064,
-    "wins": 33
+    "result_reconciliation_rate": 0.417355,
+    "settled_selections": 101,
+    "unreconciled_selections": 141,
+    "win_strike_rate_on_evaluated": 0.346535,
+    "wins": 35
   },
   "schema_version": "1.0",
   "scope": "THE_RACING_API_DAILY_FEED",
@@ -1208,17 +1208,17 @@
     {
       "days_recorded": 6,
       "late_or_invalid_days": 0,
-      "missing_winner_sp": 0,
+      "missing_winner_sp": 2,
       "net_units": null,
       "official_selections": 27,
       "period": "2026-W45",
       "profitability_status": "INCOMPLETE_PRICE_OR_RESULT_COVERAGE",
       "prospectively_frozen_days": 6,
       "roi": null,
-      "settled_selections": 1,
-      "strike_rate": 0.0,
-      "units_staked_with_known_return": 1,
-      "wins": 0
+      "settled_selections": 8,
+      "strike_rate": 0.25,
+      "units_staked_with_known_return": 6,
+      "wins": 2
     },
     {
       "days_recorded": 7,

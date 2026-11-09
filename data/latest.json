@@ -97,7 +97,7 @@
     "prospective_freeze": true,
     "state": "EVALUATED"
   },
-  "generated_at_utc": "2026-11-08T23:11:28.368294+00:00",
+  "generated_at_utc": "2026-11-09T00:06:03.409624+00:00",
   "latest_card": {
     "date": "2026-10-31",
     "races": [
@@ -400,7 +400,7 @@
   "project": {
     "discipline": "Prospective prediction research",
     "latest_frozen_prediction": "2026-10-31",
-    "latest_racecard_snapshot": "2026-11-08",
+    "latest_racecard_snapshot": "2026-11-09",
     "latest_results_snapshot": "2026-11-07",
     "name": "SCC PREDICTIONS",
     "status": "RESEARCH / FORWARD VALIDATION"

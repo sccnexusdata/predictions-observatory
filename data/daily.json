@@ -1,7 +1,7 @@
 {
   "current": {
     "abstentions": 5,
-    "completed_results": 0,
+    "completed_results": 4,
     "date": "2026-11-10",
     "evaluation_complete": false,
     "first_off_utc": "2026-11-10T13:10:00+00:00",
@@ -85,16 +85,16 @@
         "shadow_selection": "Rebel Tribesman"
       }
     ],
-    "settled_selections": 0,
+    "settled_selections": 4,
     "status": "FROZEN_PRE_RACE",
-    "units_staked_with_known_return": 0,
+    "units_staked_with_known_return": 4,
     "wins": 0
   },
-  "generated_at_utc": "2026-11-10T12:36:37.308366+00:00",
+  "generated_at_utc": "2026-11-10T15:07:38.313223+00:00",
   "history": [
     {
       "abstentions": 5,
-      "completed_results": 0,
+      "completed_results": 4,
       "date": "2026-11-10",
       "evaluation_complete": false,
       "first_off_utc": "2026-11-10T13:10:00+00:00",
@@ -106,9 +106,9 @@
       "prospective_freeze": true,
       "races_reviewed": 12,
       "roi": null,
-      "settled_selections": 0,
+      "settled_selections": 4,
       "status": "FROZEN_PRE_RACE",
-      "units_staked_with_known_return": 0,
+      "units_staked_with_known_return": 4,
       "wins": 0
     },
     {
@@ -1212,9 +1212,9 @@
       "profitability_status": "INCOMPLETE_PRICE_OR_RESULT_COVERAGE",
       "prospectively_frozen_days": 10,
       "roi": null,
-      "settled_selections": 17,
-      "strike_rate": 0.294118,
-      "units_staked_with_known_return": 12,
+      "settled_selections": 21,
+      "strike_rate": 0.238095,
+      "units_staked_with_known_return": 16,
       "wins": 5
     },
     {
@@ -1253,10 +1253,10 @@
     "betting_roi_status": "NOT_CERTIFIED_INCOMPLETE_RESULTS_OR_PRICES",
     "missing_winner_sp": 36,
     "official_selections": 256,
-    "result_reconciliation_rate": 0.40625,
-    "settled_selections": 104,
-    "unreconciled_selections": 152,
-    "win_strike_rate_on_evaluated": 0.346154,
+    "result_reconciliation_rate": 0.421875,
+    "settled_selections": 108,
+    "unreconciled_selections": 148,
+    "win_strike_rate_on_evaluated": 0.333333,
     "wins": 36
   },
   "schema_version": "1.0",
@@ -1272,9 +1272,9 @@
       "profitability_status": "INCOMPLETE_PRICE_OR_RESULT_COVERAGE",
       "prospectively_frozen_days": 2,
       "roi": null,
-      "settled_selections": 3,
-      "strike_rate": 0.333333,
-      "units_staked_with_known_return": 2,
+      "settled_selections": 7,
+      "strike_rate": 0.142857,
+      "units_staked_with_known_return": 6,
       "wins": 1
     },
     {

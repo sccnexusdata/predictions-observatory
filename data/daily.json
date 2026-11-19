@@ -1,15 +1,15 @@
 {
   "current": {
     "abstentions": 22,
-    "completed_results": 0,
+    "completed_results": 3,
     "date": "2026-11-19",
     "evaluation_complete": false,
     "first_off_utc": "2026-11-19T11:18:00+00:00",
     "generated_at_utc": "2026-11-19T02:01:33.426638+00:00",
-    "missing_winner_sp": 0,
+    "missing_winner_sp": 1,
     "net_units": null,
     "official_selections": 4,
-    "profitability_status": "INCOMPLETE_EVALUATION",
+    "profitability_status": "INCOMPLETE_WINNER_PRICES",
     "prospective_freeze": true,
     "races_reviewed": 26,
     "roi": null,
@@ -55,31 +55,31 @@
         "shadow_selection": "Iron Bridge"
       }
     ],
-    "settled_selections": 0,
+    "settled_selections": 3,
     "status": "FROZEN_PRE_RACE",
-    "units_staked_with_known_return": 0,
-    "wins": 0
+    "units_staked_with_known_return": 2,
+    "wins": 1
   },
-  "generated_at_utc": "2026-11-19T13:00:11.553461+00:00",
+  "generated_at_utc": "2026-11-19T15:57:27.653116+00:00",
   "history": [
     {
       "abstentions": 22,
-      "completed_results": 0,
+      "completed_results": 3,
       "date": "2026-11-19",
       "evaluation_complete": false,
       "first_off_utc": "2026-11-19T11:18:00+00:00",
       "generated_at_utc": "2026-11-19T02:01:33.426638+00:00",
-      "missing_winner_sp": 0,
+      "missing_winner_sp": 1,
       "net_units": null,
       "official_selections": 4,
-      "profitability_status": "INCOMPLETE_EVALUATION",
+      "profitability_status": "INCOMPLETE_WINNER_PRICES",
       "prospective_freeze": true,
       "races_reviewed": 26,
       "roi": null,
-      "settled_selections": 0,
+      "settled_selections": 3,
       "status": "FROZEN_PRE_RACE",
-      "units_staked_with_known_return": 0,
-      "wins": 0
+      "units_staked_with_known_return": 2,
+      "wins": 1
     },
     {
       "abstentions": 17,
@@ -1346,17 +1346,17 @@
     {
       "days_recorded": 19,
       "late_or_invalid_days": 0,
-      "missing_winner_sp": 8,
+      "missing_winner_sp": 9,
       "net_units": null,
       "official_selections": 82,
       "period": "2026-11",
       "profitability_status": "INCOMPLETE_PRICE_OR_RESULT_COVERAGE",
       "prospectively_frozen_days": 19,
       "roi": null,
-      "settled_selections": 30,
-      "strike_rate": 0.266667,
-      "units_staked_with_known_return": 22,
-      "wins": 8
+      "settled_selections": 33,
+      "strike_rate": 0.272727,
+      "units_staked_with_known_return": 24,
+      "wins": 9
     },
     {
       "days_recorded": 31,
@@ -1392,13 +1392,13 @@
   "performance": {
     "betting_roi": null,
     "betting_roi_status": "NOT_CERTIFIED_INCOMPLETE_RESULTS_OR_PRICES",
-    "missing_winner_sp": 39,
+    "missing_winner_sp": 40,
     "official_selections": 290,
-    "result_reconciliation_rate": 0.403448,
-    "settled_selections": 117,
-    "unreconciled_selections": 173,
+    "result_reconciliation_rate": 0.413793,
+    "settled_selections": 120,
+    "unreconciled_selections": 170,
     "win_strike_rate_on_evaluated": 0.333333,
-    "wins": 39
+    "wins": 40
   },
   "schema_version": "1.0",
   "scope": "THE_RACING_API_DAILY_FEED",
@@ -1406,17 +1406,17 @@
     {
       "days_recorded": 4,
       "late_or_invalid_days": 0,
-      "missing_winner_sp": 3,
+      "missing_winner_sp": 4,
       "net_units": null,
       "official_selections": 13,
       "period": "2026-W47",
       "profitability_status": "INCOMPLETE_PRICE_OR_RESULT_COVERAGE",
       "prospectively_frozen_days": 4,
       "roi": null,
-      "settled_selections": 6,
-      "strike_rate": 0.5,
-      "units_staked_with_known_return": 3,
-      "wins": 3
+      "settled_selections": 9,
+      "strike_rate": 0.444444,
+      "units_staked_with_known_return": 5,
+      "wins": 4
     },
     {
       "days_recorded": 7,

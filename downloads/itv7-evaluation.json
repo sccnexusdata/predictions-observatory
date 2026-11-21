@@ -1,12 +1,9 @@
 {
   "coverage": {
-    "complete": false,
-    "completed_results": 5,
+    "complete": true,
+    "completed_results": 7,
     "itv7_legs": 7,
-    "missing_result_legs": [
-      6,
-      7
-    ]
+    "missing_result_legs": []
   },
   "date": "2026-11-21",
   "evaluation_policy": {
@@ -24,7 +21,7 @@
       "multiclass_brier_score"
     ]
   },
-  "generated_at_utc": "2026-11-21T15:22:26.080777+00:00",
+  "generated_at_utc": "2026-11-21T20:52:35.845923+00:00",
   "legs": [
     {
       "baseline": {
@@ -222,28 +219,82 @@
       "winner_sp": null
     },
     {
-      "baseline": null,
+      "baseline": {
+        "brier_score": 0.7011090201967421,
+        "finish_position": 1,
+        "log_loss": 1.4552557374614923,
+        "model": "transparent-baseline",
+        "non_finish": false,
+        "result_code": "1",
+        "selection": "Vanderpoel",
+        "selection_matched": true,
+        "sp": null,
+        "top3_hit": true,
+        "winner_hit": true,
+        "winner_probability": 0.23334068231630967
+      },
       "course": "Ascot",
       "frozen": null,
       "leg": 6,
-      "off_time": "15:18",
+      "off_time": "3:18",
       "race_id": "rac_32304187149",
       "race_name": "Vietti Barolo Hurst Park Handicap Steeple Chase (Premier Handicap) (GBB Race)",
-      "result_status": "MISSING",
-      "shadow": null,
-      "winner": null
+      "result_status": "COMPLETE",
+      "shadow": {
+        "brier_score": 0.4494536649999999,
+        "finish_position": 1,
+        "log_loss": 0.839908561955349,
+        "model": "quant-shadow",
+        "non_finish": false,
+        "result_code": "1",
+        "selection": "Vanderpoel",
+        "selection_matched": true,
+        "sp": null,
+        "top3_hit": true,
+        "winner_hit": true,
+        "winner_probability": 0.43175
+      },
+      "winner": "Vanderpoel (IRE)",
+      "winner_sp": null
     },
     {
-      "baseline": null,
+      "baseline": {
+        "brier_score": 0.7852267217620852,
+        "finish_position": 4,
+        "log_loss": 1.618466434322171,
+        "model": "transparent-baseline",
+        "non_finish": false,
+        "result_code": "4",
+        "selection": "Caughtinyourtrance",
+        "selection_matched": true,
+        "sp": null,
+        "top3_hit": false,
+        "winner_hit": false,
+        "winner_probability": 0.19820242256664555
+      },
       "course": "Haydock",
       "frozen": null,
       "leg": 7,
-      "off_time": "15:35",
+      "off_time": "3:35",
       "race_id": "rac_32305080106",
       "race_name": "Betfair Backs Opinions Handicap Steeple Chase (GBB Race)",
-      "result_status": "MISSING",
-      "shadow": null,
-      "winner": null
+      "result_status": "COMPLETE",
+      "shadow": {
+        "brier_score": 0.907430255,
+        "finish_position": 4,
+        "log_loss": 1.5630315396199446,
+        "model": "quant-shadow",
+        "non_finish": false,
+        "result_code": "4",
+        "selection": "Caughtinyourtrance",
+        "selection_matched": true,
+        "sp": null,
+        "top3_hit": false,
+        "winner_hit": false,
+        "winner_probability": 0.2095
+      },
+      "winner": "Chasingouttheblues (IRE)",
+      "winner_sp": null
     }
   ],
   "metrics": {
@@ -259,34 +310,34 @@
       "wins": 0
     },
     "quant_shadow": {
-      "legs_scored": 5,
-      "mean_brier_score": 0.884837,
-      "mean_finish_position": 4.2,
-      "mean_log_loss": 1.670463,
+      "legs_scored": 7,
+      "mean_brier_score": 0.825867,
+      "mean_finish_position": 3.714,
+      "mean_log_loss": 1.536465,
       "non_finishes": 0,
-      "top3_finishes": 2,
-      "top3_rate": 0.4,
-      "win_rate": 0.2,
-      "wins": 1
+      "top3_finishes": 3,
+      "top3_rate": 0.42857142857142855,
+      "win_rate": 0.2857142857142857,
+      "wins": 2
     },
     "transparent_baseline": {
-      "legs_scored": 5,
-      "mean_brier_score": 0.802719,
-      "mean_finish_position": 4.2,
-      "mean_log_loss": 1.729461,
+      "legs_scored": 7,
+      "mean_brier_score": 0.785704,
+      "mean_finish_position": 3.714,
+      "mean_log_loss": 1.674432,
       "non_finishes": 0,
-      "top3_finishes": 2,
-      "top3_rate": 0.4,
-      "win_rate": 0.2,
-      "wins": 1
+      "top3_finishes": 3,
+      "top3_rate": 0.42857142857142855,
+      "win_rate": 0.2857142857142857,
+      "wins": 2
     }
   },
   "report_type": "ITV7_POST_RACE_EVALUATION",
   "results_source": {
     "endpoint": "/v1/results/today/free",
-    "payload_sha256": "613272e7bcb0b35ec3290a5c38ac10cab9115ce9c6a9d2280f12de6f26204cec",
+    "payload_sha256": "2afadc25a2710747bf9753cae567941b54a86a58c88f362425c201587d1f5018",
     "provider": "The Racing API",
-    "retrieved_at_utc": "2026-11-21T15:22:25.193989+00:00"
+    "retrieved_at_utc": "2026-11-21T20:52:33.132235+00:00"
   },
   "schema_version": "1.1"
 }

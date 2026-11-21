@@ -95,104 +95,104 @@
     "method_note": "Deterministic structured-data baseline using official rating, recent form, weight, recency, age/progression and a bounded Chester draw prior. It is a research baseline, not a validated betting model.",
     "model_status": "PROVISIONAL_TRANSPARENT_HEURISTIC",
     "prospective_freeze": true,
-    "state": "PREDICTION_FROZEN"
+    "state": "RESULTS_PARTIAL"
   },
-  "generated_at_utc": "2026-11-21T14:51:26.986246+00:00",
+  "generated_at_utc": "2026-11-21T15:22:45.834775+00:00",
   "latest_card": {
-    "date": "2026-10-31",
+    "date": "2026-11-21",
     "races": [
       {
-        "course": "Ascot",
+        "course": "Haydock",
         "leg": 1,
         "models": {
           "frozen_scc": null,
           "quant_shadow": {
-            "finish_position": 8,
+            "finish_position": 7,
             "label": "Quant Shadow",
             "non_finish": false,
-            "result_code": "8",
-            "selection": "Teddy Blue",
+            "result_code": "7",
+            "selection": "North Shore",
             "top3_hit": false,
             "winner_hit": false,
-            "winner_probability": 0.15915
+            "winner_probability": 0.07295
           },
           "transparent_baseline": {
-            "finish_position": 9,
+            "finish_position": 7,
             "label": "Transparent baseline",
             "non_finish": false,
-            "result_code": "9",
-            "selection": "Gore Point",
+            "result_code": "7",
+            "selection": "North Shore",
             "top3_hit": false,
             "winner_hit": false,
-            "winner_probability": 0.09877537678676426
+            "winner_probability": 0.12791671860856252
           }
         },
-        "off_time": "2:00",
-        "race_name": "Sodexo Live! Handicap Steeple Chase (gbb Race)",
-        "winner": "Vanderpoel (IRE)"
+        "off_time": "1:15",
+        "race_name": "Betfair Supports Safer Gambling Week Newton Novices' Hurdle Race (Grade 2) (GBB Race)",
+        "winner": "Kingofthefrontier (GB)"
       },
       {
-        "course": "Wetherby",
+        "course": "Ascot",
         "leg": 2,
         "models": {
           "frozen_scc": null,
           "quant_shadow": {
-            "finish_position": 1,
+            "finish_position": 2,
             "label": "Quant Shadow",
             "non_finish": false,
-            "result_code": "1",
-            "selection": "Strong Leader",
-            "top3_hit": true,
-            "winner_hit": true,
-            "winner_probability": 0.4125
-          },
-          "transparent_baseline": {
-            "finish_position": 3,
-            "label": "Transparent baseline",
-            "non_finish": false,
-            "result_code": "3",
-            "selection": "Take No Chances",
+            "result_code": "2",
+            "selection": "Lucky Place",
             "top3_hit": true,
             "winner_hit": false,
-            "winner_probability": 0.26790699431186404
+            "winner_probability": 0.1274
+          },
+          "transparent_baseline": {
+            "finish_position": 2,
+            "label": "Transparent baseline",
+            "non_finish": false,
+            "result_code": "2",
+            "selection": "Lucky Place",
+            "top3_hit": true,
+            "winner_hit": false,
+            "winner_probability": 0.2597643472307745
           }
         },
-        "off_time": "2:18",
-        "race_name": "Bet365 Hurdle Race (grade 2) (registered As The West Yorkshire Hurdle) (gbb Race)",
-        "winner": "Strong Leader (GB)"
+        "off_time": "1:30",
+        "race_name": "Ladbrokes Ascot Hurdle Race (Grade 2) (Registered As The Ascot Hurdle Race) (GBB Race)",
+        "winner": "Kateira (GB)"
       },
       {
-        "course": "Ascot",
+        "course": "Haydock",
         "leg": 3,
         "models": {
           "frozen_scc": null,
           "quant_shadow": {
-            "finish_position": 1,
+            "finish_position": 6,
             "label": "Quant Shadow",
             "non_finish": false,
-            "result_code": "1",
-            "selection": "Viroflay",
-            "top3_hit": true,
-            "winner_hit": true,
-            "winner_probability": 0.3556
+            "result_code": "6",
+            "selection": "Give It To Me Oj",
+            "top3_hit": false,
+            "winner_hit": false,
+            "winner_probability": 0.1518
           },
           "transparent_baseline": {
-            "finish_position": 1,
+            "finish_position": 6,
             "label": "Transparent baseline",
             "non_finish": false,
-            "result_code": "1",
-            "selection": "Viroflay",
-            "top3_hit": true,
-            "winner_hit": true,
-            "winner_probability": 0.15246785949848798
+            "result_code": "6",
+            "selection": "Give It To Me Oj",
+            "top3_hit": false,
+            "winner_hit": false,
+            "winner_probability": 0.16300404513298383
           }
         },
-        "off_time": "2:33",
-        "race_name": "Sodexo Live! Regal Encore Handicap Steeple Chase (Premier Handicap) (GBB Race)",
-        "winner": "Viroflay (FR)"
+        "off_time": "1:50",
+        "race_name": "Best Odds On The Betfair Exchange Handicap Hurdle Race (GBB Race)",
+        "winner": "Kocktail Bleu (FR)"
       },
       {
-        "course": "Wetherby",
+        "course": "Haydock",
         "leg": 4,
         "models": {
           "frozen_scc": null,
@@ -201,127 +201,91 @@
             "label": "Quant Shadow",
             "non_finish": false,
             "result_code": "1",
-            "selection": "Pic D'orhy",
+            "selection": "Matty's Getaway",
             "top3_hit": true,
             "winner_hit": true,
-            "winner_probability": 0.63725
+            "winner_probability": 0.49205
           },
           "transparent_baseline": {
             "finish_position": 1,
             "label": "Transparent baseline",
             "non_finish": false,
             "result_code": "1",
-            "selection": "Pic D'orhy",
+            "selection": "Matty's Getaway",
             "top3_hit": true,
             "winner_hit": true,
-            "winner_probability": 0.2155271796902023
+            "winner_probability": 0.1767717986157493
           }
         },
-        "off_time": "2:55",
-        "race_name": "Bet365 Charlie Hall Steeple Chase (Grade 2) (GBB Race)",
-        "winner": "Pic D'Orhy (FR)"
+        "off_time": "2:25",
+        "race_name": "Betfair Stayers' Red Rose Handicap Hurdle Race (Premier Handicap) (GBB Race)",
+        "winner": "Matty's Getaway (IRE)"
       },
       {
-        "course": "Down Royal (IRE)",
+        "course": "Haydock",
         "leg": 5,
         "models": {
           "frozen_scc": null,
           "quant_shadow": {
-            "finish_position": null,
+            "finish_position": 5,
             "label": "Quant Shadow",
             "non_finish": false,
-            "result_code": "UNMATCHED",
+            "result_code": "5",
             "selection": "Affordale Fury",
             "top3_hit": false,
             "winner_hit": false,
-            "winner_probability": 0.0444
+            "winner_probability": 0.33975
           },
           "transparent_baseline": {
-            "finish_position": null,
+            "finish_position": 5,
             "label": "Transparent baseline",
             "non_finish": false,
-            "result_code": "UNMATCHED",
+            "result_code": "5",
             "selection": "Affordale Fury",
             "top3_hit": false,
             "winner_hit": false,
-            "winner_probability": 0.11682140381761992
+            "winner_probability": 0.1834027396342695
           }
         },
-        "off_time": "3:15",
-        "race_name": "BetVictor, Remembering Envoi Allen Champion Steeplechase (Grade 1)",
-        "winner": "Haiti Couleurs (FR)"
-      },
-      {
-        "course": "Wetherby",
-        "leg": 6,
-        "models": {
-          "frozen_scc": null,
-          "quant_shadow": {
-            "finish_position": 1,
-            "label": "Quant Shadow",
-            "non_finish": false,
-            "result_code": "1",
-            "selection": "Filibustering",
-            "top3_hit": true,
-            "winner_hit": true,
-            "winner_probability": 0.6053
-          },
-          "transparent_baseline": {
-            "finish_position": 1,
-            "label": "Transparent baseline",
-            "non_finish": false,
-            "result_code": "1",
-            "selection": "Filibustering",
-            "top3_hit": true,
-            "winner_hit": true,
-            "winner_probability": 0.3541631957827985
-          }
-        },
-        "off_time": "3:30",
-        "race_name": "Each Way Extra At Bet365 Handicap Hurdle Race",
-        "winner": "Filibustering (GB)"
+        "off_time": "3:00",
+        "race_name": "Betfair Steeple Chase (Grade 1) (Registered As The Lancashire Steeple Chase) (GBB Race)",
+        "winner": "Grey Dawning (IRE)"
       },
       {
         "course": "Ascot",
+        "leg": 6,
+        "models": {
+          "frozen_scc": null,
+          "quant_shadow": null,
+          "transparent_baseline": null
+        },
+        "off_time": "15:18",
+        "race_name": "Vietti Barolo Hurst Park Handicap Steeple Chase (Premier Handicap) (GBB Race)",
+        "winner": null
+      },
+      {
+        "course": "Haydock",
         "leg": 7,
         "models": {
           "frozen_scc": null,
-          "quant_shadow": {
-            "finish_position": 6,
-            "label": "Quant Shadow",
-            "non_finish": false,
-            "result_code": "6",
-            "selection": "Williethebuilder",
-            "top3_hit": false,
-            "winner_hit": false,
-            "winner_probability": 0.0984
-          },
-          "transparent_baseline": {
-            "finish_position": 6,
-            "label": "Transparent baseline",
-            "non_finish": false,
-            "result_code": "6",
-            "selection": "Williethebuilder",
-            "top3_hit": false,
-            "winner_hit": false,
-            "winner_probability": 0.08014210241428531
-          }
+          "quant_shadow": null,
+          "transparent_baseline": null
         },
-        "off_time": "3:43",
-        "race_name": "Lavazza Handicap Hurdle Race (gbb Race)",
-        "winner": "Trustintimes (GB)"
+        "off_time": "15:35",
+        "race_name": "Betfair Backs Opinions Handicap Steeple Chase (GBB Race)",
+        "winner": null
       }
     ],
     "source": {
       "endpoint": "/v1/results/today/free",
-      "payload_sha256": "95ea40545b10144ded26b24210b6a40912ab735dc8517dda491843affe82890b",
+      "payload_sha256": "613272e7bcb0b35ec3290a5c38ac10cab9115ce9c6a9d2280f12de6f26204cec",
       "provider": "The Racing API",
-      "retrieved_at_utc": "2026-10-31T22:51:04.983890+00:00"
+      "retrieved_at_utc": "2026-11-21T15:22:25.193989+00:00"
     }
   },
   "ledger": {
-    "cards_evaluated": 6,
-    "cards_with_evaluation": 6,
+    "cards_evaluated": 7,
+    "cards_with_evaluation": 7,
     "complete_cards": 5,
     "diagnostic_checkpoints": [
       {
@@ -347,8 +311,8 @@
     ],
     "first_card": "2026-08-22",
     "fully_reconciled_cards": 5,
-    "latest_card": "2026-10-31",
-    "race_legs_evaluated": 39,
+    "latest_card": "2026-11-21",
+    "race_legs_evaluated": 44,
     "retuning_threshold_cards": 50,
     "retuning_threshold_legs": 350
   },
@@ -367,27 +331,27 @@
     },
     "quant_shadow": {
       "label": "Quant Shadow",
-      "legs_scored": 37,
-      "mean_brier_score": 0.819125,
-      "mean_finish_position": 5.722,
-      "mean_log_loss": 2.190343,
+      "legs_scored": 42,
+      "mean_brier_score": 0.826947,
+      "mean_finish_position": 5.537,
+      "mean_log_loss": 2.128453,
       "non_finishes": 1,
-      "top3_finishes": 20,
-      "top3_rate": 0.5405405405405406,
-      "win_rate": 0.32432432432432434,
-      "wins": 12
+      "top3_finishes": 22,
+      "top3_rate": 0.5238095238095238,
+      "win_rate": 0.30952380952380953,
+      "wins": 13
     },
     "transparent_baseline": {
       "label": "Transparent baseline",
-      "legs_scored": 37,
-      "mean_brier_score": 0.852773,
-      "mean_finish_position": 5.5,
-      "mean_log_loss": 2.18742,
+      "legs_scored": 42,
+      "mean_brier_score": 0.846814,
+      "mean_finish_position": 5.341,
+      "mean_log_loss": 2.132901,
       "non_finishes": 1,
-      "top3_finishes": 20,
-      "top3_rate": 0.5405405405405406,
-      "win_rate": 0.2972972972972973,
-      "wins": 11
+      "top3_finishes": 22,
+      "top3_rate": 0.5238095238095238,
+      "win_rate": 0.2857142857142857,
+      "wins": 12
     }
   },
   "principles": [
@@ -401,11 +365,43 @@
     "discipline": "Prospective prediction research",
     "latest_frozen_prediction": "2026-11-21",
     "latest_racecard_snapshot": "2026-11-21",
-    "latest_results_snapshot": "2026-11-20",
+    "latest_results_snapshot": "2026-11-21",
     "name": "SCC PREDICTIONS",
     "status": "RESEARCH / FORWARD VALIDATION"
   },
   "recent_cards": [
+    {
+      "complete": false,
+      "completed_results": 5,
+      "date": "2026-11-21",
+      "itv7_legs": 7,
+      "models": {
+        "frozen_scc": {
+          "label": "SCC Core",
+          "legs_scored": 0,
+          "mean_brier_score": null,
+          "mean_log_loss": null,
+          "top3_finishes": 0,
+          "wins": 0
+        },
+        "quant_shadow": {
+          "label": "Quant Shadow",
+          "legs_scored": 5,
+          "mean_brier_score": 0.884837,
+          "mean_log_loss": 1.670463,
+          "top3_finishes": 2,
+          "wins": 1
+        },
+        "transparent_baseline": {
+          "label": "Transparent baseline",
+          "legs_scored": 5,
+          "mean_brier_score": 0.802719,
+          "mean_log_loss": 1.729461,
+          "top3_finishes": 2,
+          "wins": 1
+        }
+      }
+    },
     {
       "complete": true,
       "completed_results": 7,

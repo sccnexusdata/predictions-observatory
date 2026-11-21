@@ -1,14 +1,9 @@
 {
+  "completed_results": 5,
   "date": "2026-11-21",
-  "first_off_utc": "2026-11-21T13:15:00+00:00",
-  "generated_at_utc": "2026-11-21T00:58:04.785989+00:00",
-  "matched_legs": 7,
-  "message": "Seven-leg ITV7 card captured and model outputs frozen.",
-  "models": [
-    "transparent-baseline-v1",
-    "quant-shadow-v1"
-  ],
-  "prospective_freeze": true,
+  "generated_at_utc": "2026-11-21T15:22:26.329348+00:00",
+  "itv7_legs": 7,
+  "message": "Results captured but the seven-leg card is not yet complete.",
   "schema_version": "1.0",
-  "state": "PREDICTION_FROZEN"
+  "state": "RESULTS_PARTIAL"
 }

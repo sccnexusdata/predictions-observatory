@@ -1,0 +1,292 @@
+{
+  "coverage": {
+    "complete": false,
+    "completed_results": 5,
+    "itv7_legs": 7,
+    "missing_result_legs": [
+      6,
+      7
+    ]
+  },
+  "date": "2026-11-21",
+  "evaluation_policy": {
+    "anti_hindsight": "Frozen predictions are never rewritten after results are known.",
+    "betting_returns_role": "SEPARATE_DOWNSTREAM_EXPERIMENT",
+    "minimum_cards_before_retuning": 50,
+    "primary_pick_metrics": [
+      "winner_hit",
+      "top3_hit",
+      "finish_position",
+      "non_finish"
+    ],
+    "probability_metrics": [
+      "multiclass_log_loss",
+      "multiclass_brier_score"
+    ]
+  },
+  "generated_at_utc": "2026-11-21T15:22:26.080777+00:00",
+  "legs": [
+    {
+      "baseline": {
+        "brier_score": 0.8721406237538628,
+        "finish_position": 7,
+        "log_loss": 2.0563758626884985,
+        "model": "transparent-baseline",
+        "non_finish": false,
+        "result_code": "7",
+        "selection": "North Shore",
+        "selection_matched": true,
+        "sp": null,
+        "top3_hit": false,
+        "winner_hit": false,
+        "winner_probability": 0.12791671860856252
+      },
+      "course": "Haydock",
+      "frozen": null,
+      "leg": 1,
+      "off_time": "1:15",
+      "race_id": "rac_32305074295",
+      "race_name": "Betfair Supports Safer Gambling Week Newton Novices' Hurdle Race (Grade 2) (GBB Race)",
+      "result_status": "COMPLETE",
+      "shadow": {
+        "brier_score": 1.0404703849999999,
+        "finish_position": 7,
+        "log_loss": 2.6179810040133424,
+        "model": "quant-shadow",
+        "non_finish": false,
+        "result_code": "7",
+        "selection": "North Shore",
+        "selection_matched": true,
+        "sp": null,
+        "top3_hit": false,
+        "winner_hit": false,
+        "winner_probability": 0.07295
+      },
+      "winner": "Kingofthefrontier (GB)",
+      "winner_sp": null
+    },
+    {
+      "baseline": {
+        "brier_score": 0.7765268540756118,
+        "finish_position": 2,
+        "log_loss": 1.3479804157610058,
+        "model": "transparent-baseline",
+        "non_finish": false,
+        "result_code": "2",
+        "selection": "Lucky Place",
+        "selection_matched": true,
+        "sp": null,
+        "top3_hit": true,
+        "winner_hit": false,
+        "winner_probability": 0.2597643472307745
+      },
+      "course": "Ascot",
+      "frozen": null,
+      "leg": 2,
+      "off_time": "1:30",
+      "race_id": "rac_32305064610",
+      "race_name": "Ladbrokes Ascot Hurdle Race (Grade 2) (Registered As The Ascot Hurdle Race) (GBB Race)",
+      "result_status": "COMPLETE",
+      "shadow": {
+        "brier_score": 1.366140125,
+        "finish_position": 2,
+        "log_loss": 2.060423535844074,
+        "model": "quant-shadow",
+        "non_finish": false,
+        "result_code": "2",
+        "selection": "Lucky Place",
+        "selection_matched": true,
+        "sp": null,
+        "top3_hit": true,
+        "winner_hit": false,
+        "winner_probability": 0.1274
+      },
+      "winner": "Kateira (GB)",
+      "winner_sp": null
+    },
+    {
+      "baseline": {
+        "brier_score": 0.8197353168035638,
+        "finish_position": 6,
+        "log_loss": 1.8139802617165337,
+        "model": "transparent-baseline",
+        "non_finish": false,
+        "result_code": "6",
+        "selection": "Give It To Me Oj",
+        "selection_matched": true,
+        "sp": null,
+        "top3_hit": false,
+        "winner_hit": false,
+        "winner_probability": 0.16300404513298383
+      },
+      "course": "Haydock",
+      "frozen": null,
+      "leg": 3,
+      "off_time": "1:50",
+      "race_id": "rac_32305076232",
+      "race_name": "Best Odds On The Betfair Exchange Handicap Hurdle Race (GBB Race)",
+      "result_status": "COMPLETE",
+      "shadow": {
+        "brier_score": 0.8849228800000002,
+        "finish_position": 6,
+        "log_loss": 1.8851914140206076,
+        "model": "quant-shadow",
+        "non_finish": false,
+        "result_code": "6",
+        "selection": "Give It To Me Oj",
+        "selection_matched": true,
+        "sp": null,
+        "top3_hit": false,
+        "winner_hit": false,
+        "winner_probability": 0.1518
+      },
+      "winner": "Kocktail Bleu (FR)",
+      "winner_sp": null
+    },
+    {
+      "baseline": {
+        "brier_score": 0.7577872149103924,
+        "finish_position": 1,
+        "log_loss": 1.7328956515935974,
+        "model": "transparent-baseline",
+        "non_finish": false,
+        "result_code": "1",
+        "selection": "Matty's Getaway",
+        "selection_matched": true,
+        "sp": null,
+        "top3_hit": true,
+        "winner_hit": true,
+        "winner_probability": 0.1767717986157493
+      },
+      "course": "Haydock",
+      "frozen": null,
+      "leg": 4,
+      "off_time": "2:25",
+      "race_id": "rac_32304189086",
+      "race_name": "Betfair Stayers' Red Rose Handicap Hurdle Race (Premier Handicap) (GBB Race)",
+      "result_status": "COMPLETE",
+      "shadow": {
+        "brier_score": 0.3128376200000001,
+        "finish_position": 1,
+        "log_loss": 0.7091749416371426,
+        "model": "quant-shadow",
+        "non_finish": false,
+        "result_code": "1",
+        "selection": "Matty's Getaway",
+        "selection_matched": true,
+        "sp": null,
+        "top3_hit": true,
+        "winner_hit": true,
+        "winner_probability": 0.49205
+      },
+      "winner": "Matty's Getaway (IRE)",
+      "winner_sp": null
+    },
+    {
+      "baseline": {
+        "brier_score": 0.7874031545293899,
+        "finish_position": 5,
+        "log_loss": 1.696070781243702,
+        "model": "transparent-baseline",
+        "non_finish": false,
+        "result_code": "5",
+        "selection": "Affordale Fury",
+        "selection_matched": true,
+        "sp": null,
+        "top3_hit": false,
+        "winner_hit": false,
+        "winner_probability": 0.1834027396342695
+      },
+      "course": "Haydock",
+      "frozen": null,
+      "leg": 5,
+      "off_time": "3:00",
+      "race_id": "rac_32304191023",
+      "race_name": "Betfair Steeple Chase (Grade 1) (Registered As The Lancashire Steeple Chase) (GBB Race)",
+      "result_status": "COMPLETE",
+      "shadow": {
+        "brier_score": 0.8198132699999999,
+        "finish_position": 5,
+        "log_loss": 1.079545225950884,
+        "model": "quant-shadow",
+        "non_finish": false,
+        "result_code": "5",
+        "selection": "Affordale Fury",
+        "selection_matched": true,
+        "sp": null,
+        "top3_hit": false,
+        "winner_hit": false,
+        "winner_probability": 0.33975
+      },
+      "winner": "Grey Dawning (IRE)",
+      "winner_sp": null
+    },
+    {
+      "baseline": null,
+      "course": "Ascot",
+      "frozen": null,
+      "leg": 6,
+      "off_time": "15:18",
+      "race_id": "rac_32304187149",
+      "race_name": "Vietti Barolo Hurst Park Handicap Steeple Chase (Premier Handicap) (GBB Race)",
+      "result_status": "MISSING",
+      "shadow": null,
+      "winner": null
+    },
+    {
+      "baseline": null,
+      "course": "Haydock",
+      "frozen": null,
+      "leg": 7,
+      "off_time": "15:35",
+      "race_id": "rac_32305080106",
+      "race_name": "Betfair Backs Opinions Handicap Steeple Chase (GBB Race)",
+      "result_status": "MISSING",
+      "shadow": null,
+      "winner": null
+    }
+  ],
+  "metrics": {
+    "frozen_scc": {
+      "legs_scored": 0,
+      "mean_brier_score": null,
+      "mean_finish_position": null,
+      "mean_log_loss": null,
+      "non_finishes": 0,
+      "top3_finishes": 0,
+      "top3_rate": null,
+      "win_rate": null,
+      "wins": 0
+    },
+    "quant_shadow": {
+      "legs_scored": 5,
+      "mean_brier_score": 0.884837,
+      "mean_finish_position": 4.2,
+      "mean_log_loss": 1.670463,
+      "non_finishes": 0,
+      "top3_finishes": 2,
+      "top3_rate": 0.4,
+      "win_rate": 0.2,
+      "wins": 1
+    },
+    "transparent_baseline": {
+      "legs_scored": 5,
+      "mean_brier_score": 0.802719,
+      "mean_finish_position": 4.2,
+      "mean_log_loss": 1.729461,
+      "non_finishes": 0,
+      "top3_finishes": 2,
+      "top3_rate": 0.4,
+      "win_rate": 0.2,
+      "wins": 1
+    }
+  },
+  "report_type": "ITV7_POST_RACE_EVALUATION",
+  "results_source": {
+    "endpoint": "/v1/results/today/free",
+    "payload_sha256": "613272e7bcb0b35ec3290a5c38ac10cab9115ce9c6a9d2280f12de6f26204cec",
+    "provider": "The Racing API",
+    "retrieved_at_utc": "2026-11-21T15:22:25.193989+00:00"
+  },
+  "schema_version": "1.1"
+}

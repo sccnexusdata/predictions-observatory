@@ -1,7 +1,7 @@
 {
   "current": {
     "abstentions": 21,
-    "completed_results": 0,
+    "completed_results": 6,
     "date": "2026-11-26",
     "evaluation_complete": false,
     "first_off_utc": "2026-11-26T11:54:00+00:00",
@@ -85,16 +85,16 @@
         "shadow_selection": "Calvino"
       }
     ],
-    "settled_selections": 0,
+    "settled_selections": 6,
     "status": "FROZEN_PRE_RACE",
-    "units_staked_with_known_return": 0,
+    "units_staked_with_known_return": 6,
     "wins": 0
   },
-  "generated_at_utc": "2026-11-26T13:52:39.842832+00:00",
+  "generated_at_utc": "2026-11-26T17:11:51.741451+00:00",
   "history": [
     {
       "abstentions": 21,
-      "completed_results": 0,
+      "completed_results": 6,
       "date": "2026-11-26",
       "evaluation_complete": false,
       "first_off_utc": "2026-11-26T11:54:00+00:00",
@@ -106,9 +106,9 @@
       "prospective_freeze": true,
       "races_reviewed": 28,
       "roi": null,
-      "settled_selections": 0,
+      "settled_selections": 6,
       "status": "FROZEN_PRE_RACE",
-      "units_staked_with_known_return": 0,
+      "units_staked_with_known_return": 6,
       "wins": 0
     },
     {
@@ -1516,9 +1516,9 @@
       "profitability_status": "INCOMPLETE_PRICE_OR_RESULT_COVERAGE",
       "prospectively_frozen_days": 26,
       "roi": null,
-      "settled_selections": 40,
-      "strike_rate": 0.25,
-      "units_staked_with_known_return": 30,
+      "settled_selections": 46,
+      "strike_rate": 0.217391,
+      "units_staked_with_known_return": 36,
       "wins": 10
     },
     {
@@ -1557,10 +1557,10 @@
     "betting_roi_status": "NOT_CERTIFIED_INCOMPLETE_RESULTS_OR_PRICES",
     "missing_winner_sp": 41,
     "official_selections": 322,
-    "result_reconciliation_rate": 0.39441,
-    "settled_selections": 127,
-    "unreconciled_selections": 195,
-    "win_strike_rate_on_evaluated": 0.322835,
+    "result_reconciliation_rate": 0.413043,
+    "settled_selections": 133,
+    "unreconciled_selections": 189,
+    "win_strike_rate_on_evaluated": 0.308271,
     "wins": 41
   },
   "schema_version": "1.0",
@@ -1576,9 +1576,9 @@
       "profitability_status": "INCOMPLETE_PRICE_OR_RESULT_COVERAGE",
       "prospectively_frozen_days": 4,
       "roi": null,
-      "settled_selections": 6,
-      "strike_rate": 0.166667,
-      "units_staked_with_known_return": 5,
+      "settled_selections": 12,
+      "strike_rate": 0.083333,
+      "units_staked_with_known_return": 11,
       "wins": 1
     },
     {

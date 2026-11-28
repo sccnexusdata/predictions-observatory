@@ -1,89 +1,89 @@
 {
   "competition": "ITV7",
-  "date": "2026-11-21",
-  "first_off_utc": "2026-11-21T13:15:00+00:00",
-  "generated_at_utc": "2026-11-21T00:58:03.883460+00:00",
+  "date": "2026-11-28",
+  "first_off_utc": "2026-11-28T13:25:00+00:00",
+  "generated_at_utc": "2026-11-28T00:32:31.371613+00:00",
   "integrity": {
     "prospective_freeze": true,
     "rule": "Do not rewrite after the first ITV7 leg begins; later analysis belongs in post-race evaluation."
   },
   "legs": [
     {
-      "course": "Haydock",
-      "horse_id": "hrs_55915818",
+      "course": "Newcastle",
+      "horse_id": "hrs_27821493",
       "leg": 1,
       "market_reference_odds": null,
-      "model_probability": 0.15736853228977374,
-      "off": "13:15",
-      "race": "Betfair Supports Safer Gambling Week Newton Novices' Hurdle Race (Grade 2) (GBB Race)",
-      "rationale": "Transparent baseline rank 1; provisional evidence share 15.74%. Among the strongest official ratings; won latest recorded run; younger profile with scope to progress.",
-      "selection": "North Shore"
+      "model_probability": 0.14571407097667832,
+      "off": "13:25",
+      "race": "SES Engineering Powering Past The Rehearsal Handicap Steeple Chase (Premier Handicap) (GBB Race)",
+      "rationale": "Transparent baseline rank 1; provisional evidence share 14.57%. Among the strongest official ratings; race-fit recency window.",
+      "selection": "Il Est Francais"
     },
     {
-      "course": "Ascot",
-      "horse_id": "hrs_35363559",
+      "course": "Newbury",
+      "horse_id": "hrs_36878821",
       "leg": 2,
       "market_reference_odds": null,
-      "model_probability": 0.4149479765935971,
-      "off": "13:30",
-      "race": "Ladbrokes Ascot Hurdle Race (Grade 2) (Registered As The Ascot Hurdle Race) (GBB Race)",
-      "rationale": "Transparent baseline rank 1; provisional evidence share 41.49%. Among the strongest official ratings; recent placed form; race-fit recency window.",
-      "selection": "Lucky Place"
+      "model_probability": 0.07207620468139761,
+      "off": "13:40",
+      "race": "Coral \"Bet£10 Get£50 Sign Up Offer\" Handicap Hurdle Race (GBB Race)",
+      "rationale": "Transparent baseline rank 1; provisional evidence share 7.21%. Among the strongest official ratings; race-fit recency window.",
+      "selection": "Too Bossy For Us"
     },
     {
-      "course": "Haydock",
-      "horse_id": "hrs_41305131",
+      "course": "Newcastle",
+      "horse_id": "hrs_39208155",
       "leg": 3,
       "market_reference_odds": null,
-      "model_probability": 0.16447106468696962,
-      "off": "13:50",
-      "race": "Best Odds On The Betfair Exchange Handicap Hurdle Race (GBB Race)",
-      "rationale": "Transparent baseline rank 1; provisional evidence share 16.45%. Among the strongest official ratings; fitness after a long break is a question.",
-      "selection": "Give It To Me Oj"
+      "model_probability": 0.3324476507024522,
+      "off": "14:00",
+      "race": "Bowmer And Kirkland We Build As One Fighting Fifth Hurdle Race (Grade 1) (GBB Race)",
+      "rationale": "Transparent baseline rank 1; provisional evidence share 33.24%. Among the strongest official ratings; won latest recorded run; race-fit recency window.",
+      "selection": "Alexei"
     },
     {
-      "course": "Haydock",
-      "horse_id": "hrs_35430661",
+      "course": "Newbury",
+      "horse_id": "hrs_49577822",
       "leg": 4,
       "market_reference_odds": null,
-      "model_probability": 0.1767717986157493,
-      "off": "14:25",
-      "race": "Betfair Stayers' Red Rose Handicap Hurdle Race (Premier Handicap) (GBB Race)",
-      "rationale": "Transparent baseline rank 1; provisional evidence share 17.68%. Among the strongest official ratings; won latest recorded run; race-fit recency window.",
-      "selection": "Matty's Getaway"
+      "model_probability": 0.16049111293408266,
+      "off": "14:20",
+      "race": "Coral Racing Club Intermediate Handicap Hurdle Race (Registered As The Gerry Feilden) (Premier Handicap) (GBB Race)",
+      "rationale": "Transparent baseline rank 1; provisional evidence share 16.05%. race-fit recency window.",
+      "selection": "White Noise"
     },
     {
-      "course": "Haydock",
-      "horse_id": "hrs_29226554",
+      "course": "Newcastle",
+      "horse_id": "hrs_37096108",
       "leg": 5,
       "market_reference_odds": null,
-      "model_probability": 0.21517333071122358,
-      "off": "15:00",
-      "race": "Betfair Steeple Chase (Grade 1) (Registered As The Lancashire Steeple Chase) (GBB Race)",
-      "rationale": "Transparent baseline rank 1; provisional evidence share 21.52%. Among the strongest official ratings; won latest recorded run; fitness after a long break is a question.",
-      "selection": "Affordale Fury"
+      "model_probability": 0.1358734901323571,
+      "off": "14:35",
+      "race": "Ryder & Cundall Designed To Go The Distance Handicap Hurdle Race",
+      "rationale": "Transparent baseline rank 1; provisional evidence share 13.59%. Among the strongest official ratings; race-fit recency window.",
+      "selection": "Tiddesley Wood"
     },
     {
-      "course": "Ascot",
-      "horse_id": "hrs_40786599",
+      "course": "Newbury",
+      "horse_id": "hrs_16761871",
       "leg": 6,
       "market_reference_odds": null,
-      "model_probability": 0.23334068231630967,
-      "off": "15:18",
-      "race": "Vietti Barolo Hurst Park Handicap Steeple Chase (Premier Handicap) (GBB Race)",
-      "rationale": "Transparent baseline rank 1; provisional evidence share 23.33%. Among the strongest official ratings; won latest recorded run; race-fit recency window.",
-      "selection": "Vanderpoel"
+      "model_probability": 0.08489438391070404,
+      "off": "15:00",
+      "race": "Coral Gold Cup Handicap Steeple Chase (Registered As The Newbury Gold Cup) (Premier Handicap) (GBB Race)",
+      "rationale": "Transparent baseline rank 1; provisional evidence share 8.49%. Among the strongest official ratings; won latest recorded run; race-fit recency window.",
+      "selection": "Masaccio"
     },
     {
-      "course": "Haydock",
-      "horse_id": "hrs_34166867",
+      "course": "Newbury",
+      "horse_id": "hrs_28903728",
       "leg": 7,
       "market_reference_odds": null,
-      "model_probability": 0.253707420837066,
-      "off": "15:35",
-      "race": "Betfair Backs Opinions Handicap Steeple Chase (GBB Race)",
-      "rationale": "Transparent baseline rank 1; provisional evidence share 25.37%. recent placed form; race-fit recency window.",
-      "selection": "Caughtinyourtrance"
+      "model_probability": 0.11763044807530014,
+      "off": "15:38",
+      "race": "Coral \"Pipped-At-The-Post\" And Win Handicap Steeple Chase (For The Jim Joel Memorial Trophy) (GBB Race)",
+      "rationale": "Transparent baseline rank 1; provisional evidence share 11.76%. Among the strongest official ratings; race-fit recency window.",
+      "selection": "Breaking Cover"
     }
   ],
   "method": {
@@ -92,15 +92,15 @@
     "note": "Deterministic structured-data baseline using official rating, recent form, weight, recency, age/progression and a bounded Chester draw prior. It is a research baseline, not a validated betting model."
   },
   "model_status": "PROVISIONAL_TRANSPARENT_HEURISTIC",
-  "prediction_id": "itv7-2026-11-21-transparent-baseline-v1",
+  "prediction_id": "itv7-2026-11-28-transparent-baseline-v1",
   "prospective_freeze": true,
   "schema_version": "1.0",
   "source_snapshot": {
     "endpoint": "/v1/racecards/free",
-    "itv7_manifest": "data/racing_api/2026-11-21/itv7/manifest.json",
-    "payload_sha256": "64581d32d5623cfc0359ba224e0768deb9c4334c7666abf095df61efdcbc6da7",
+    "itv7_manifest": "data/racing_api/2026-11-28/itv7/manifest.json",
+    "payload_sha256": "f37aa1efc67790bcf984f2bc94f283f29a26e89055a77da732d142c66cb04975",
     "provider": "The Racing API",
-    "retrieved_at_utc": "2026-11-21T00:58:00.880240+00:00"
+    "retrieved_at_utc": "2026-11-28T00:32:28.610944+00:00"
   },
   "status": "FROZEN_PRE_RACE"
 }
